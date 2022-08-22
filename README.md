@@ -1,5 +1,1 @@
-![Untitled-1 (2)](https://user-images.githubusercontent.com/100924535/185983585-28336f84-5e32-43e2-afde-5100f1823dc6.png)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/100924535/185970557-f8dae058-eb03-4396-ae17-3054decf5ba0.jpg" width="250" height="250">
-</p>
+![Screenshot 2022-01-27 145135](https://user-images.githubusercontent.com/100924535/185983752-8bcc94a6-e5ff-4880-9c59-0dcde29d3d3b.png)
