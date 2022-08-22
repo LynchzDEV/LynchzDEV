@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @LynchzDEV
-- 👀 I’m interested in Minecraft modding, Datapack, or any game things
-- 🌱 I’m currently learning css, html, japanese lang lmao
-- 💞️ I’m looking to collaborate on minecraft bug fix datapack
-- 📫 How to reach me dm me on discord 𝙎𝙖𝙠𝙖𝙢𝙖𝙩𝙖 𝘾𝙝𝙡𝙤𝙚#0125
+![Untitled-1 (2)](https://user-images.githubusercontent.com/100924535/185983585-28336f84-5e32-43e2-afde-5100f1823dc6.png)
 
-<!---
-LynchzDEV/LynchzDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/100924535/185970557-f8dae058-eb03-4396-ae17-3054decf5ba0.jpg" width="250" height="250">
+</p>
