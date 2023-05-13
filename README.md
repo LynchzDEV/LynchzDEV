@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi there!<br>📝 currently working of school project.<br>🌱 growing and learning.<br>📚 also this is a school's account.<br>🎬 lovin' watching anime and read manga.<br>☕️ coffee as my blood-vein.
+## Hi there!
+<br>📝 currently working of school project.<br>🌱 growing and learning.<br>📚 also this is a school's account.<br>🎬 lovin' watching anime and read manga.<br>☕️ coffee as my blood-vein.
 
 
 ## 🌐 Socials:
