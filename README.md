@@ -16,7 +16,7 @@ Hi there!<br>📝 currently working of school project.<br>🌱 growing and learn
 ![](https://github-profile-trophy.vercel.app/?username=LynchzDEV&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.redd.it/i1wiuwkh2zr31.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LynchzDEV&icon=0&color=4)](https://visitcount.itsvg.in)
