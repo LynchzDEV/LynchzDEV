@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there!
+### Hi there! My name is JINNAWAT VILAIRAT, also you can call me palm
 📝 currently working of school project.<br>🌱 growing and learning.<br>📚 also this is a school's account.<br>🎬 lovin' watching anime and read manga.<br>☕️ <del>coffee as my blood-vein.</del> trying to quit.
 
 
