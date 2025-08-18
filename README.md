@@ -20,7 +20,7 @@
               🔴 NOW PLAYING
             </div>
             <div style="font-weight: 500; color: #14171a; font-size: 14px; line-height: 1.2;">
-              とけない - MIMiNARI
+              三月と群青(Inori Minase LIVE TOUR 2024 heart bookmark) - Inori Minase
             </div>
           </div>
         </div>
@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 02:39 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 02:43 PM</sub>
 </div>
 
 </div>
