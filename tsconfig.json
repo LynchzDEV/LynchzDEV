@@ -21,6 +21,6 @@
     "exactOptionalPropertyTypes": true,
     "noUncheckedIndexedAccess": true
   },
-  "include": ["src/**/*", "scripts/**/*"],
+  "include": ["src/**/*", "scripts/**/*", "update-readme.ts"],
   "exclude": ["node_modules", "dist"]
 }
