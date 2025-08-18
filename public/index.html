@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>README Spotify Integration - Ngrok Dev</title>
+        <style>
+            body {
+                font-family:
+                    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
+                padding: 40px;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                margin: 0;
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .container {
+                background: white;
+                padding: 40px;
+                border-radius: 16px;
+                max-width: 400px;
+                text-align: center;
+                box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+            }
+            .btn {
+                background: #1db954;
+                color: white;
+                padding: 14px 28px;
+                border: none;
+                border-radius: 8px;
+                text-decoration: none;
+                display: inline-block;
+                margin: 20px 0;
+                font-weight: 600;
+                transition: all 0.2s;
+            }
+            .btn:hover {
+                background: #1ed760;
+                transform: translateY(-2px);
+            }
+            .emoji {
+                font-size: 48px;
+                margin-bottom: 20px;
+            }
+            .dev-badge {
+                background: #ff6b6b;
+                color: white;
+                padding: 4px 8px;
+                border-radius: 4px;
+                font-size: 10px;
+                margin-left: 8px;
+            }
+            .ngrok-info {
+                background: #f8f9fa;
+                padding: 15px;
+                border-radius: 8px;
+                margin: 20px 0;
+                font-size: 12px;
+                color: #666;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="emoji">🎵</div>
+            <h2>README Spotify Setup <span class="dev-badge">DEV</span></h2>
+            <div class="ngrok-info">
+                <strong>Development Mode</strong><br />
+                Running on Ngrok tunnel for local development
+            </div>
+            <p>
+                Connect your Spotify account to enable dynamic music integration
+                in your GitHub README.
+            </p>
+            <a href="/api/auth" class="btn">Connect Spotify</a>
+            <p style="font-size: 12px; color: #666; margin-top: 30px">
+                This will redirect you to Spotify for secure authorization.<br />
+                Make sure your server is running locally!
+            </p>
+        </div>
+    </body>
+</html>

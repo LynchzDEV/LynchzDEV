@@ -1,0 +1,63 @@
+name: Update README with Spotify
+
+on:
+  schedule:
+    - cron: "*/10 * * * *" # Every 10 minutes
+  workflow_dispatch: # Manual trigger button
+  push:
+    branches: [main]
+    paths: [".github/workflows/spotify-readme.yml"] # Only run when workflow changes
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🎵 Fetch current Spotify track
+        id: spotify
+        run: |
+          echo "🎵 Fetching current track from Spotify API..."
+
+          # Fetch data from your ngrok endpoint
+          RESPONSE=$(curl -s "https://4f1223a444cb.ngrok-free.app/api/spotify" || echo '{"name":"API Error","artist":"","isPlaying":false}')
+
+          # Extract data using jq
+          TRACK_NAME=$(echo "$RESPONSE" | jq -r '.name // "Nothing playing"')
+          ARTIST_NAME=$(echo "$RESPONSE" | jq -r '.artist // ""')
+          IS_PLAYING=$(echo "$RESPONSE" | jq -r '.isPlaying // false')
+
+          echo "Track: $TRACK_NAME"
+          echo "Artist: $ARTIST_NAME"
+          echo "Playing: $IS_PLAYING"
+
+          # Set outputs for next step
+          echo "track_name=$TRACK_NAME" >> $GITHUB_OUTPUT
+          echo "artist_name=$ARTIST_NAME" >> $GITHUB_OUTPUT
+          echo "is_playing=$IS_PLAYING" >> $GITHUB_OUTPUT
+
+      - name: 📝 Update README
+        run: |
+          echo "📝 Updating README with track info..."
+          node update-readme.js "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}"
+
+      - name: 🚀 Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+
+          # Check if there are changes
+          if git diff --quiet README.md; then
+            echo "🔄 No changes to README"
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "🎵 Update Spotify now playing: ${{ steps.spotify.outputs.track_name }}"
+          git push
+
+          echo "✅ README updated and pushed!"
