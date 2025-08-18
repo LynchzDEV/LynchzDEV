@@ -57,48 +57,57 @@ const readmeContent = `<div align="center">
 # Hi, I'm Lynchz 👋
 
 <!-- Custom GIF -->
-<img src="./inabak.gif" width="350" alt="Inaba Gif" />
-
-<div style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=22&duration=3000&pause=1000&color=374151&center=true&vCenter=true&width=435&lines=CS+Student+%26+Music+Enthusiast;J-Rock+%26+Metal+Fan;TypeScript+Developer" alt="Typing SVG" />
-  <div align="center">
-    Live with passion, <br/>
-    Learn with purpose, <br/>
-    Act without hesitation. <br/>
-    Share it all as if there's no tomorrow. :D
-  </div>
-  <br/>
-</div>
-
-<h2>Currently Listening to:</h2>
-
-<table align="center" style="border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<table style="width: 100%; margin: 20px 0;">
   <tr>
-    <td align="center" style="border: none;">
-      <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;">
-        <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
-          <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-            <img src="${displayImage}" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
-            <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-              🎶 listening to: ${displayTrack} by: ${displayArtist} 🎶 <br/>
-              ${currentTimeStr} ${progressBar} ${totalTimeStr} <br/>
-              Volume: ${volumeBar} <br/>
-              <span>↻      ◁ ${isPlaying ? "⏸" : "▷"} ▷     ↺ </span>
-            </div>
-          </div>
-          <div style="display: flex; align-items: center; gap: 12px;">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.7;">
-              <path d="M4 18L4 6M20 18L10 12L20 6V18Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="#ffffff" xmlns="http://www.w3.org/2000/svg">
-              <path d="M5 20V4L19 12L5 20Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.7;">
-              <path d="M20 6V18M4 6L14 12L4 18V6Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-          </div>
-        </div>
+    <!-- Left Column -->
+    <td style="width: 50%; vertical-align: top; padding-right: 10px;">
+      <div align="center">
+        <img src="./inabak.gif" width="350" alt="Inaba Gif" />
       </div>
+      <div style="margin: 20px 0;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=22&duration=3000&pause=1000&color=374151&center=true&vCenter=true&width=435&lines=CS+Student+%26+Music+Enthusiast;J-Rock+%26+Metal+Fan;TypeScript+Developer" alt="Typing SVG" />
+        <div align="center">
+          Live with passion, <br/>
+          Learn with purpose, <br/>
+          Act without hesitation. <br/>
+          Share it all as if there's no tomorrow. :D
+        </div>
+        <br/>
+      </div>
+    </td>
+    <!-- Right Column -->
+    <td style="width: 50%; vertical-align: top; padding-left: 10px;">
+<!--      <div style="text-align: left; color: white; font-size: 32px; line-height: 1.4;">Currently Listing To:</div> -->
+<!--       <table align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"> -->
+<!--         <tr> -->
+<!--           <td align="center"> -->
+            <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
+              <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
+                <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
+                  <img src="${displayImage}" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
+                    🎶 <span style="font-weight: bold;">listening to:</span> ${displayTrack} by: ${displayArtist} 🎶 <br/>
+                    ${currentTimeStr} ${progressBar} ${totalTimeStr} <br/>
+                    Volume: ${volumeBar} <br/>
+                    <span>↻      ◁ ${isPlaying ? "⏸" : "▷"} ▷     ↺ </span>
+                  </div>
+                </div>
+                <div style="display: flex; align-items: center; gap: 12px;">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.7;">
+                    <path d="M4 18L4 6M20 18L10 12L20 6V18Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                  <svg width="32" height="32" viewBox="0 0 24 24" fill="#ffffff" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5 20V4L19 12L5 20Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.7;">
+                    <path d="M20 6V18M4 6L14 12L4 18V6Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                </div>
+              </div>
+            </div>
+<!--           </td>
+        </tr>
+      </table> -->
     </td>
   </tr>
 </table>
