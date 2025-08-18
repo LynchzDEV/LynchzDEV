@@ -6,7 +6,6 @@ on:
   workflow_dispatch: # Manual trigger button
   push:
     branches: [main]
-    paths: [".github/workflows/spotify-readme.yml"] # Only run when workflow changes
 
 jobs:
   update-readme:
@@ -23,27 +22,38 @@ jobs:
         run: |
           echo "🎵 Fetching current track from Spotify API..."
 
-          # Fetch data from your ngrok endpoint
-          RESPONSE=$(curl -s "https://4f1223a444cb.ngrok-free.app/api/spotify" || echo '{"name":"API Error","artist":"","isPlaying":false}')
+          # Your ngrok URL - UPDATE THIS TO YOUR ACTUAL NGROK URL
+          RESPONSE=$(curl -s "https://4f1223a444cb.ngrok-free.app/api/spotify" || echo '{"name":"Nothing playing","artist":"","album":"","isPlaying":false,"image":"https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3"}')
+
+          echo "API Response: $RESPONSE"
 
           # Extract data using jq
           TRACK_NAME=$(echo "$RESPONSE" | jq -r '.name // "Nothing playing"')
           ARTIST_NAME=$(echo "$RESPONSE" | jq -r '.artist // ""')
           IS_PLAYING=$(echo "$RESPONSE" | jq -r '.isPlaying // false')
+          ALBUM_IMAGE=$(echo "$RESPONSE" | jq -r '.image // "https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3"')
 
           echo "Track: $TRACK_NAME"
           echo "Artist: $ARTIST_NAME"
           echo "Playing: $IS_PLAYING"
+          echo "Image: $ALBUM_IMAGE"
 
           # Set outputs for next step
           echo "track_name=$TRACK_NAME" >> $GITHUB_OUTPUT
           echo "artist_name=$ARTIST_NAME" >> $GITHUB_OUTPUT
           echo "is_playing=$IS_PLAYING" >> $GITHUB_OUTPUT
+          echo "album_image=$ALBUM_IMAGE" >> $GITHUB_OUTPUT
 
       - name: 📝 Update README
         run: |
-          echo "📝 Updating README with track info..."
-          node update-readme.js "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}"
+          echo "📝 Updating README with enhanced track info..."
+
+          if [ ! -f "update-readme.js" ]; then
+            echo "❌ update-readme.js not found!"
+            exit 1
+          fi
+
+          node update-readme.js "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}" "${{ steps.spotify.outputs.album_image }}"
 
       - name: 🚀 Commit and push changes
         run: |
@@ -55,9 +65,3 @@ jobs:
             echo "🔄 No changes to README"
             exit 0
           fi
-
-          git add README.md
-          git commit -m "🎵 Update Spotify now playing: ${{ steps.spotify.outputs.track_name }}"
-          git push
-
-          echo "✅ README updated and pushed!"

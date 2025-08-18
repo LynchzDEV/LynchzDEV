@@ -20,7 +20,7 @@ router.get("/", async (req, res) => {
       clientId: process.env.SPOTIFY_CLIENT_ID!,
       clientSecret: process.env.SPOTIFY_CLIENT_SECRET!,
       refreshToken: process.env.SPOTIFY_REFRESH_TOKEN!,
-      redirectUri: `https://${process.env.DOMAIN}/api/callback`,
+      redirectUri: `${process.env.NGROK_URL}/api/callback`,
     };
 
     const client = new SpotifyClient(config);
@@ -31,6 +31,7 @@ router.get("/", async (req, res) => {
       artist: "",
       album: "",
       isPlaying: false,
+      image: "https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3", // TUYU fallback
     };
 
     const result = track ?? fallback;
@@ -54,10 +55,11 @@ router.get("/", async (req, res) => {
 
     res.status(500).json({
       error: "Failed to fetch Spotify data",
-      name: "Error",
+      name: "Nothing playing",
       artist: "",
       album: "",
       isPlaying: false,
+      image: "https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3",
     });
   }
 });
