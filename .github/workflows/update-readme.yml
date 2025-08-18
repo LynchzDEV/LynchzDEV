@@ -17,26 +17,63 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: 🔍 Debug repository state
+        run: |
+          echo "📁 Repository contents:"
+          ls -la
+          echo ""
+          echo "📄 README.md current size:"
+          wc -l README.md
+          echo ""
+          echo "📄 Update script exists:"
+          if [ -f "update-readme.js" ]; then
+            echo "✅ update-readme.js found"
+            echo "Script size: $(wc -l update-readme.js)"
+          else
+            echo "❌ update-readme.js NOT found"
+            exit 1
+          fi
+          echo ""
+          echo "🖼️ GIF exists:"
+          if [ -f "inabak.gif" ]; then
+            echo "✅ inabak.gif found ($(du -h inabak.gif))"
+          else
+            echo "❌ inabak.gif NOT found"
+          fi
+
       - name: 🎵 Fetch current Spotify track
         id: spotify
         run: |
           echo "🎵 Fetching current track from Spotify API..."
 
-          # Your ngrok URL - UPDATE THIS TO YOUR ACTUAL NGROK URL
-          RESPONSE=$(curl -s "https://4f1223a444cb.ngrok-free.app/api/spotify" || echo '{"name":"Nothing playing","artist":"","album":"","isPlaying":false,"image":"https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3"}')
+          # Your ngrok URL - UPDATE THIS IF YOUR NGROK URL CHANGED
+          API_URL="https://4f1223a444cb.ngrok-free.app/api/spotify"
+          echo "🌐 Calling API: $API_URL"
 
-          echo "API Response: $RESPONSE"
+          RESPONSE=$(curl -s -w "HTTPSTATUS:%{http_code}" "$API_URL" || echo 'HTTPSTATUS:000{"name":"Connection Error","artist":"","album":"","isPlaying":false,"image":"https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3"}')
+
+          HTTP_CODE=$(echo "$RESPONSE" | grep -o 'HTTPSTATUS:[0-9]*' | cut -d':' -f2)
+          RESPONSE_BODY=$(echo "$RESPONSE" | sed 's/HTTPSTATUS:[0-9]*$//')
+
+          echo "📡 HTTP Status: $HTTP_CODE"
+          echo "📡 API Response: $RESPONSE_BODY"
+
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "⚠️ API returned non-200 status, using fallback"
+            RESPONSE_BODY='{"name":"Nothing playing","artist":"","album":"","isPlaying":false,"image":"https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3"}'
+          fi
 
           # Extract data using jq
-          TRACK_NAME=$(echo "$RESPONSE" | jq -r '.name // "Nothing playing"')
-          ARTIST_NAME=$(echo "$RESPONSE" | jq -r '.artist // ""')
-          IS_PLAYING=$(echo "$RESPONSE" | jq -r '.isPlaying // false')
-          ALBUM_IMAGE=$(echo "$RESPONSE" | jq -r '.image // "https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3"')
+          TRACK_NAME=$(echo "$RESPONSE_BODY" | jq -r '.name // "Nothing playing"')
+          ARTIST_NAME=$(echo "$RESPONSE_BODY" | jq -r '.artist // ""')
+          IS_PLAYING=$(echo "$RESPONSE_BODY" | jq -r '.isPlaying // false')
+          ALBUM_IMAGE=$(echo "$RESPONSE_BODY" | jq -r '.image // "https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3"')
 
-          echo "Track: $TRACK_NAME"
-          echo "Artist: $ARTIST_NAME"
-          echo "Playing: $IS_PLAYING"
-          echo "Image: $ALBUM_IMAGE"
+          echo "🎵 Parsed Data:"
+          echo "  Track: '$TRACK_NAME'"
+          echo "  Artist: '$ARTIST_NAME'"
+          echo "  Playing: '$IS_PLAYING'"
+          echo "  Image: '$ALBUM_IMAGE'"
 
           # Set outputs for next step
           echo "track_name=$TRACK_NAME" >> $GITHUB_OUTPUT
@@ -46,22 +83,45 @@ jobs:
 
       - name: 📝 Update README
         run: |
-          echo "📝 Updating README with enhanced track info..."
+          echo "📝 Updating README with track info..."
+          echo "Arguments: '${{ steps.spotify.outputs.track_name }}' '${{ steps.spotify.outputs.artist_name }}' '${{ steps.spotify.outputs.is_playing }}' '${{ steps.spotify.outputs.album_image }}'"
 
-          if [ ! -f "update-readme.js" ]; then
-            echo "❌ update-readme.js not found!"
-            exit 1
-          fi
+          # Store current README hash for comparison
+          BEFORE_HASH=$(md5sum README.md | cut -d' ' -f1)
+          echo "📄 README hash before update: $BEFORE_HASH"
 
+          # Run the update script
           node update-readme.js "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}" "${{ steps.spotify.outputs.album_image }}"
+
+          # Check if README actually changed
+          AFTER_HASH=$(md5sum README.md | cut -d' ' -f1)
+          echo "📄 README hash after update: $AFTER_HASH"
+
+          if [ "$BEFORE_HASH" = "$AFTER_HASH" ]; then
+            echo "⚠️ README content unchanged (same hash)"
+          else
+            echo "✅ README content updated (hash changed)"
+          fi
 
       - name: 🚀 Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
 
-          # Check if there are changes
+          echo "📊 Git status:"
+          git status --porcelain
+
+          # Check if there are any changes
           if git diff --quiet README.md; then
-            echo "🔄 No changes to README"
+            echo "🔄 No changes detected in README.md"
+            echo "Current README preview (first 10 lines):"
+            head -10 README.md
             exit 0
           fi
+
+          echo "✅ Changes detected, committing..."
+          git add README.md
+          git commit -m "🎵 Update Spotify: ${{ steps.spotify.outputs.track_name }} by ${{ steps.spotify.outputs.artist_name }}"
+          git push
+
+          echo "🎉 README updated and pushed successfully!"
