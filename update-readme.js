@@ -29,11 +29,19 @@ const displayImage =
     ? fallbackData.image
     : albumImage || fallbackData.image;
 
-const playingStatus = isPlaying ? "🔴 NOW PLAYING" : "⏸️ LAST PLAYED";
-const trackDisplay = displayArtist
-  ? `${displayTrack} - ${displayArtist}`
-  : displayTrack;
-const playingEmoji = isPlaying ? "🎵" : "⏸️";
+// Generate random progress for the progress bar (you can make this dynamic later)
+const currentTime = Math.floor(Math.random() * 180) + 30; // 30s to 3:30
+const totalTime = Math.floor(Math.random() * 120) + 180; // 3:00 to 5:00
+const currentTimeStr = `${Math.floor(currentTime / 60)}:${(currentTime % 60).toString().padStart(2, "0")}`;
+const totalTimeStr = `${Math.floor(totalTime / 60)}:${(totalTime % 60).toString().padStart(2, "0")}`;
+const progress = Math.floor((currentTime / totalTime) * 15); // 15 chars for progress bar
+
+// Create progress bar
+const progressBar = "━".repeat(progress) + "●" + "─".repeat(15 - progress);
+
+// Generate random volume level
+const volumeLevel = Math.floor(Math.random() * 8) + 1;
+const volumeBar = "■".repeat(volumeLevel) + "□".repeat(8 - volumeLevel);
 
 const timestamp = new Date().toLocaleString("en-US", {
   timeZone: "Asia/Bangkok",
@@ -49,7 +57,7 @@ const readmeContent = `<div align="center">
 # Hi, I'm Lynchz 👋
 
 <!-- Custom GIF -->
-<img src="./inabak.gif" width="150" alt="Inaba Gif" />
+<img src="./inabak.gif" width="350" alt="Inaba Gif" />
 
 <div style="margin: 20px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=22&duration=3000&pause=1000&color=374151&center=true&vCenter=true&width=435&lines=CS+Student+%26+Music+Enthusiast;J-Rock+%26+Metal+Fan;TypeScript+Developer" alt="Typing SVG" />
@@ -62,37 +70,40 @@ const readmeContent = `<div align="center">
   <br/>
 </div>
 
-<!-- Enhanced Spotify Now Playing with Album Art -->
-<table align="center" style="border: none;">
+<h2>Currently Listening to:</h2>
+
+<table align="center" style="border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
   <tr>
     <td align="center" style="border: none;">
-      <div style="background: #ffffff; border: 1px solid #e1e8ed; border-radius: 8px; padding: 16px; min-width: 350px;">
-        <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
-          <!-- Album Art -->
-          <div style="position: relative;">
-            <img src="${displayImage}" width="50" height="50" style="border-radius: 6px; object-fit: cover;" alt="Album Art" />
-            ${isPlaying ? '<div style="position: absolute; top: -3px; right: -3px; width: 12px; height: 12px; background: #1db954; border-radius: 50%; border: 2px solid white;"></div>' : ""}
-          </div>
-
-          <!-- Music Icon -->
-          <div style="margin-right: 8px; font-size: 20px;">
-            ${playingEmoji}
-          </div>
-
-          <!-- Track Info -->
-          <div style="text-align: left; flex: 1;">
-            <div style="font-size: 10px; color: #657786; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;">
-              ${playingStatus}
+      <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
+          <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
+            <img src="${displayImage}" width="80" height="80" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+            <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
+              🎶 listening to: ${displayTrack} by: ${displayArtist} 🎶 <br/>
+              ${currentTimeStr} ${progressBar} ${totalTimeStr} <br/>
+              Volume: ${volumeBar} <br/>
+              ↻      ◁ ${isPlaying ? "⏸" : "▷"} ▷     ↺
             </div>
-            <div style="font-weight: 500; color: #14171a; font-size: 14px; line-height: 1.2;">
-              ${trackDisplay}
-            </div>
+          </div>
+          <div style="display: flex; align-items: center; gap: 12px;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.7;">
+              <path d="M4 18L4 6M20 18L10 12L20 6V18Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="#ffffff" xmlns="http://www.w3.org/2000/svg">
+              <path d="M5 20V4L19 12L5 20Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.7;">
+              <path d="M20 6V18M4 6L14 12L4 18V6Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
           </div>
         </div>
       </div>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ## 💻 Tech Stack
 
@@ -143,7 +154,7 @@ const readmeContent = `<div align="center">
 try {
   writeFileSync("README.md", readmeContent);
   console.log("✅ README updated successfully!");
-  console.log(`🎵 Current track: ${trackDisplay}`);
+  console.log(`🎵 Current track: ${displayTrack} by ${displayArtist}`);
   console.log(`🖼️ Album art: ${displayImage}`);
   console.log(`📅 Updated at: ${timestamp}`);
 } catch (error) {
