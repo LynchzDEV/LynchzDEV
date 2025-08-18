@@ -83,7 +83,7 @@ const readmeContent = `<div align="center">
               🎶 listening to: ${displayTrack} by: ${displayArtist} 🎶 <br/>
               ${currentTimeStr} ${progressBar} ${totalTimeStr} <br/>
               Volume: ${volumeBar} <br/>
-              ↻      ◁ ${isPlaying ? "⏸" : "▷"} ▷     ↺
+              <span>↻      ◁ ${isPlaying ? "⏸" : "▷"} ▷     ↺ </span>
             </div>
           </div>
           <div style="display: flex; align-items: center; gap: 12px;">
