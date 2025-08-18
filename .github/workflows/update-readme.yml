@@ -43,7 +43,7 @@ jobs:
       - name: 📝 Update README
         run: |
           echo "📝 Updating README with track info..."
-          node update-readme.ts "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}"
+          node update-readme.js "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}"
 
       - name: 🚀 Commit and push changes
         run: |

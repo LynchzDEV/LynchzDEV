@@ -3,6 +3,11 @@ const fs = require("fs");
 // Get arguments from GitHub Actions
 const [, , trackName, artistName, isPlayingStr] = process.argv;
 
+console.log("📝 Script arguments received:");
+console.log("  Track:", trackName);
+console.log("  Artist:", artistName);
+console.log("  Is Playing:", isPlayingStr);
+
 const isPlaying = isPlayingStr === "true";
 const playingStatus = isPlaying ? "🔴 NOW PLAYING" : "⏸️ LAST PLAYED";
 const trackDisplay = artistName ? `${trackName} - ${artistName}` : trackName;
@@ -62,7 +67,7 @@ const readmeContent = `<div align="center">
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynchz&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2d2d2d&text_color=6b6b6b&icon_color=a8a8a8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LynchzDEV&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2d2d2d&text_color=6b6b6b&icon_color=a8a8a8)
 
 </div>
 
@@ -93,8 +98,7 @@ const readmeContent = `<div align="center">
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lynchz)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lynchz.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LynchzDEV)
 
 </div>
 
