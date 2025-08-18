@@ -24,7 +24,7 @@
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
           <!-- Album Art -->
           <div style="position: relative;">
-            <img src="https://i.scdn.co/image/ab67616d0000b273f56edc3ef52229569bdfcb26" width="50" height="50" style="border-radius: 6px; object-fit: cover;" alt="Album Art" />
+            <img src="https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3" width="50" height="50" style="border-radius: 6px; object-fit: cover;" alt="Album Art" />
             <div style="position: absolute; top: -3px; right: -3px; width: 12px; height: 12px; background: #1db954; border-radius: 50%; border: 2px solid white;"></div>
           </div>
 
@@ -39,7 +39,7 @@
               🔴 NOW PLAYING
             </div>
             <div style="font-weight: 500; color: #14171a; font-size: 14px; line-height: 1.2;">
-              To bask in the rain - TUYU
+              Perhaps I'll be able to become the Sun. - TUYU
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 03:08 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 03:22 PM</sub>
 </div>
 
 </div>
