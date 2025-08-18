@@ -32,8 +32,8 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273f8a4036d02f2af9b21bdc1f1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 私以外私じゃないの by: Gesu No Kiwami Otome 🎶 <br/>
-                    2:54 ━━━━━━━━━━━━━━●─ 3:04 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ロマンスがありあまる by: Gesu No Kiwami Otome 🎶 <br/>
+                    2:50 ━━━━━━━━━━━●──── 3:50 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 11:21 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 11:49 PM</sub>
 </div>
 
 </div>
