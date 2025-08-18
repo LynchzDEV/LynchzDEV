@@ -1,4 +1,4 @@
-const fs = require("fs");
+import { writeFileSync } from "fs";
 
 // Get arguments from GitHub Actions
 const [, , trackName, artistName, isPlayingStr] = process.argv;
@@ -111,7 +111,7 @@ const readmeContent = `<div align="center">
 </div>`;
 
 try {
-  fs.writeFileSync("README.md", readmeContent);
+  writeFileSync("README.md", readmeContent);
   console.log("✅ README updated successfully!");
   console.log(`🎵 Current track: ${trackDisplay}`);
   console.log(`📅 Updated at: ${timestamp}`);
