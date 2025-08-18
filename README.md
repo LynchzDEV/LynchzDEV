@@ -27,9 +27,9 @@
             <img src="https://i.scdn.co/image/ab67616d0000b273656d17184f33544caeae3511" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
             <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
               🎶 listening to: アメヲマツ、 by: 美波 🎶 <br/>
-              1:26 ━━━━━━●───────── 3:25 <br/>
+              2:03 ━━━━━━━●──────── 4:03 <br/>
               Volume: ■■■■■□□□ <br/>
-              ↻      ◁ ⏸ ▷     ↺
+              <span>↻      ◁ ⏸ ▷     ↺ </span>
             </div>
           </div>
           <div style="display: flex; align-items: center; gap: 12px;">
@@ -92,7 +92,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 03:27 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 18, 2025, 03:28 PM</sub>
 </div>
 
 </div>
