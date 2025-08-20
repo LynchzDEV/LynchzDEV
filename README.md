@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27319609bb5f5c4dcaaf7c83bbd" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Song for Denise by: Piano Fantasia 🎶 <br/>
-                    1:02 ━━━●──────────── 4:57 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    1:25 ━━━━━●────────── 3:52 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 20, 2025, 06:12 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 20, 2025, 06:29 PM</sub>
 </div>
 
 </div>
