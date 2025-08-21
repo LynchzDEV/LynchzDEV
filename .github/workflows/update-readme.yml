@@ -135,6 +135,7 @@ jobs:
           echo "album_image=$ALBUM_IMAGE" >> $GITHUB_OUTPUT
 
       - name: 📝 Update README
+        id: update_readme
         run: |
           echo "📝 Updating README with track info..."
           echo "Arguments: '${{ steps.spotify.outputs.track_name }}' '${{ steps.spotify.outputs.artist_name }}' '${{ steps.spotify.outputs.is_playing }}' '${{ steps.spotify.outputs.album_image }}'"
@@ -144,9 +145,16 @@ jobs:
             exit 1
           fi
 
-          node update-readme.js "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}" "${{ steps.spotify.outputs.album_image }}"
+          # Run the update script and capture the exit code
+          if node update-readme.js "${{ steps.spotify.outputs.track_name }}" "${{ steps.spotify.outputs.artist_name }}" "${{ steps.spotify.outputs.is_playing }}" "${{ steps.spotify.outputs.album_image }}"; then
+            echo "readme_updated=true" >> $GITHUB_OUTPUT
+          else
+            # Exit code 0 from the script means "no update needed" (same song)
+            echo "readme_updated=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: 🚀 Commit and push changes
+        if: steps.update_readme.outputs.readme_updated == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"

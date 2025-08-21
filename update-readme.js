@@ -1,4 +1,5 @@
-import { writeFileSync } from "fs";
+import { writeFileSync, readFileSync, existsSync } from "fs";
+import { join } from "path";
 
 // Get arguments from GitHub Actions
 const [, , trackName, artistName, isPlayingStr, albumImage] = process.argv;
@@ -10,6 +11,34 @@ console.log("  Is Playing:", isPlayingStr);
 console.log("  Album Image:", albumImage);
 
 const isPlaying = isPlayingStr === "true";
+
+// Track file to store last song info
+const LAST_SONG_FILE = ".last-song.json";
+
+// Check if the current song is the same as the last one
+function isSameSong(currentTrack, currentArtist) {
+  if (!existsSync(LAST_SONG_FILE)) {
+    return false;
+  }
+  
+  try {
+    const lastSongData = JSON.parse(readFileSync(LAST_SONG_FILE, "utf8"));
+    return lastSongData.track === currentTrack && lastSongData.artist === currentArtist;
+  } catch (error) {
+    console.log("⚠️ Could not read last song file:", error.message);
+    return false;
+  }
+}
+
+// Save current song info
+function saveCurrentSong(track, artist) {
+  try {
+    const songData = { track, artist, timestamp: new Date().toISOString() };
+    writeFileSync(LAST_SONG_FILE, JSON.stringify(songData, null, 2));
+  } catch (error) {
+    console.log("⚠️ Could not save current song:", error.message);
+  }
+}
 
 // Fallback data when not listening
 const fallbackData = {
@@ -28,6 +57,13 @@ const displayImage =
   trackName === "Nothing playing"
     ? fallbackData.image
     : albumImage || fallbackData.image;
+
+// Check if this is the same song as last time
+if (isSameSong(displayTrack, displayArtist)) {
+  console.log("🔄 Same song as last update, skipping README update");
+  console.log(`🎵 Current track: ${displayTrack} by ${displayArtist}`);
+  process.exit(0);
+}
 
 // Generate random progress for the progress bar (you can make this dynamic later)
 const currentTime = Math.floor(Math.random() * 180) + 30; // 30s to 3:30
@@ -162,6 +198,10 @@ const readmeContent = `<div align="center">
 
 try {
   writeFileSync("README.md", readmeContent);
+  
+  // Save current song info for next time
+  saveCurrentSong(displayTrack, displayArtist);
+  
   console.log("✅ README updated successfully!");
   console.log(`🎵 Current track: ${displayTrack} by ${displayArtist}`);
   console.log(`🖼️ Album art: ${displayImage}`);
