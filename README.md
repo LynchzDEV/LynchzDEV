@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273da6ec78c92d4ca3fe8adec11" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> my crush by: Kashi Moimi 🎶 <br/>
-                    1:05 ━━━●──────────── 4:39 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:20 ━━━━━●────────── 3:46 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 21, 2025, 07:38 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 21, 2025, 08:16 PM</sub>
 </div>
 
 </div>
