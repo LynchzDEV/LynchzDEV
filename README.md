@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27334a91a2fad5a628c55811518" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Metamodernity by: Vansire 🎶 <br/>
-                    0:52 ━━━●──────────── 3:26 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:43 ━━●───────────── 4:49 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 22, 2025, 04:46 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 22, 2025, 04:55 PM</sub>
 </div>
 
 </div>
