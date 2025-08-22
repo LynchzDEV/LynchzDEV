@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273845e5dc6fdcbf63ab613b381" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Floremie by: MIMI 🎶 <br/>
-                    1:59 ━━━━━━━●──────── 4:07 <br/>
+                    3:12 ━━━━━━━━━━━━━━●─ 3:14 <br/>
                     Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 22, 2025, 12:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 22, 2025, 12:54 PM</sub>
 </div>
 
 </div>
