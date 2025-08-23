@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e3120bb96a9962b76a6d7034" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Memories (One Piece) by: The Weaboos 🎶 <br/>
-                    2:19 ━━━━━━━━━━━●──── 3:05 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    3:26 ━━━━━━━━━━●───── 4:51 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 23, 2025, 02:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 23, 2025, 03:17 PM</sub>
 </div>
 
 </div>
