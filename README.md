@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273a1f42ea333578143e46668f0" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27374b26f95618f8fb986a3ad36" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> NO MAN'S DAWN by: 前島麻由 🎶 <br/>
-                    0:41 ━━●───────────── 3:49 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> カワキヲアメク by: 美波 🎶 <br/>
+                    3:13 ━━━━━━━━━━●───── 4:48 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 24, 2025, 06:11 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 24, 2025, 06:26 PM</sub>
 </div>
 
 </div>
