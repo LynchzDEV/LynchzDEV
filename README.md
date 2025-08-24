@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27359f101b0e8613a72867bffbe" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273d17c6280ec7dba33a94b8359" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Nevereverland by: NANO 🎶 <br/>
-                    2:05 ━━━━━━●───────── 4:55 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ラピスラズリ by: Eir Aoi 🎶 <br/>
+                    1:19 ━━━━●─────────── 3:59 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 24, 2025, 11:50 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 25, 2025, 12:12 AM</sub>
 </div>
 
 </div>
