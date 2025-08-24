@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273762986860b967b70f8b8d51a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> CORE PRIDE by: UVERworld 🎶 <br/>
-                    1:00 ━━━●──────────── 4:17 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    0:33 ━━●───────────── 3:48 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 24, 2025, 07:27 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 24, 2025, 08:01 PM</sub>
 </div>
 
 </div>
