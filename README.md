@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273ea6610e91edd2bf826807b28" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Living in a world without magic by: Euluca Lab. 🎶 <br/>
-                    3:17 ━━━━━━━━━━━━━━━● 3:07 <br/>
-                    Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    2:59 ━━━━━━━━━━●───── 4:18 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 25, 2025, 10:56 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 25, 2025, 11:21 PM</sub>
 </div>
 
 </div>
