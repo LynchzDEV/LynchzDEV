@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273add557df0c36874776706310" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> たしかなことって by: 藤川千愛 🎶 <br/>
-                    0:52 ━━━━●─────────── 3:05 <br/>
-                    Volume: ■■■■■■■□ <br/>
-                    <span>↻      ◁ ▷ ▷     ↺ </span>
+                    2:17 ━━━━━━━━━●────── 3:32 <br/>
+                    Volume: ■□□□□□□□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 25, 2025, 10:15 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 25, 2025, 10:35 PM</sub>
 </div>
 
 </div>
