@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a1d5d5e823c022dd5f11e599" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> This Will Be the Day by: Jeff Williams 🎶 <br/>
-                    3:22 ━━━━━━━━━━●───── 4:49 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    0:50 ━━━●──────────── 3:49 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 27, 2025, 12:14 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 27, 2025, 12:32 PM</sub>
 </div>
 
 </div>
