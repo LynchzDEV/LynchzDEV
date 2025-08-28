@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273b21a44bf2716601fdbc79b28" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273c244e958eeca8cb7f6b1d0cc" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> カナリア by: ReoNa 🎶 <br/>
-                    2:32 ━━━━━━━━━●────── 4:01 <br/>
+                    0:37 ━━●───────────── 4:17 <br/>
                     Volume: ■■■■□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 28, 2025, 09:39 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 28, 2025, 09:50 PM</sub>
 </div>
 
 </div>
