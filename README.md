@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e68f1ed1ae57ff227e2009d8" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> โลกที่ไม่มีเธอ by: PORTRAIT 🎶 <br/>
-                    3:19 ━━━━━━━━━━━━●─── 4:00 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:30 ━━━━━━━●──────── 4:58 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 30, 2025, 03:31 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 30, 2025, 03:44 AM</sub>
 </div>
 
 </div>
