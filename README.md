@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2738650e03818907bda5559cd38" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273c855cb5e5bf542edd7a755e7" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> หนังสือเล่มเก่า by: คิงส์ ชนาวิทย์ 🎶 <br/>
-                    1:49 ━━━━━━●───────── 4:00 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ต่าง by: Catherine 🎶 <br/>
+                    0:57 ━━━●──────────── 4:00 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 30, 2025, 12:30 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Aug 30, 2025, 12:43 AM</sub>
 </div>
 
 </div>
