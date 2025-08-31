@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273c04a73dbd532ff03273e6059" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Nameless Name by: TOGENASHI TOGEARI 🎶 <br/>
-                    3:21 ━━━━━━━━━━━━━━●─ 3:33 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    1:04 ━━━━●─────────── 4:00 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 1, 2025, 05:13 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 1, 2025, 05:32 AM</sub>
 </div>
 
 </div>
