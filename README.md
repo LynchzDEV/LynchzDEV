@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273527aa1e434467779f646bb74" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> After Dream by: sky_delta 🎶 <br/>
-                    1:53 ━━━━━●────────── 4:54 <br/>
-                    Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:03 ━━━●──────────── 4:59 <br/>
+                    Volume: ■■■■■■□□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 5, 2025, 01:42 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 5, 2025, 01:54 AM</sub>
 </div>
 
 </div>
