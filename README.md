@@ -32,8 +32,8 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b27337878558336eb55d31f7dd53" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> NEW DAYS by: KMNZ 🎶 <br/>
-                    1:15 ━━━━●─────────── 4:31 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> META FICTION by: KMNZ 🎶 <br/>
+                    3:18 ━━━━━━━━━━●───── 4:47 <br/>
                     Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 8, 2025, 11:23 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 8, 2025, 11:44 PM</sub>
 </div>
 
 </div>
