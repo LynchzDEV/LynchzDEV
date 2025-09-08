@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a932b1d3eb6762642b9435f7" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Spectrolite by: CULUA 🎶 <br/>
-                    1:07 ━━━━●─────────── 4:05 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    0:34 ━━●───────────── 3:57 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 8, 2025, 10:52 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 8, 2025, 11:17 AM</sub>
 </div>
 
 </div>
