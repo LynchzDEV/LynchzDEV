@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27337878558336eb55d31f7dd53" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> LUNATIC BEAST by: KMNZ 🎶 <br/>
-                    1:02 ━━━●──────────── 4:22 <br/>
-                    Volume: ■■■□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:47 ━━━━━●────────── 4:41 <br/>
+                    Volume: ■■■■■□□□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 11, 2025, 01:20 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 11, 2025, 01:45 AM</sub>
 </div>
 
 </div>
