@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273c14e28d5f410e57d12ea0763" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> YONA YONA feat. Rin音 by: 春猿火 🎶 <br/>
-                    0:55 ━━━●──────────── 3:34 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    2:39 ━━━━━━━━━●────── 4:00 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 10, 2025, 05:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 10, 2025, 06:11 PM</sub>
 </div>
 
 </div>
