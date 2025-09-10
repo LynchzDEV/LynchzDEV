@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2733a58bf2e23e46d0a67a9f0a4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2739a048079371f59835ca881df" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 硝子細工 by: Muto 🎶 <br/>
-                    2:45 ━━━━━━━━━●────── 4:25 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> オルターエゴ by: DUSTCELL 🎶 <br/>
+                    1:45 ━━━━━━●───────── 4:00 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 11, 2025, 04:12 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 11, 2025, 04:28 AM</sub>
 </div>
 
 </div>
