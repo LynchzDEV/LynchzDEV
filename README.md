@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273a5b834da0a612b9e4260ec1f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273bc1cbb71e4a6e8bc3c2d07c3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Yomaigoto by: HACHI 🎶 <br/>
-                    2:29 ━━━━━━━━━━━━●─── 3:02 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 再見ロマネスク by: VALIS 🎶 <br/>
+                    0:52 ━━━●──────────── 3:26 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 12, 2025, 04:27 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 12, 2025, 04:37 AM</sub>
 </div>
 
 </div>
