@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> メルの黄昏 by: 花譜 🎶 <br/>
-                    2:04 ━━━━━━━━━●────── 3:23 <br/>
+                    1:32 ━━━━●─────────── 4:52 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 11, 2025, 10:13 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 11, 2025, 10:30 PM</sub>
 </div>
 
 </div>
