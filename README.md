@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273207bd8d8887c40665bc054b8" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Sad Sad Hot Latte - feat. むト by: ANMC 🎶 <br/>
-                    2:42 ━━━━━━━━━━━━●─── 3:08 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    3:10 ━━━━━━━━━━━━━━━● 3:07 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 12, 2025, 06:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 12, 2025, 07:28 PM</sub>
 </div>
 
 </div>
