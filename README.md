@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273bca183b5427fdf94f9cfd96c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 超最強 by: Cho Tokimeki Sendenbu 🎶 <br/>
-                    3:03 ━━━━━━━━━━━━━●── 3:30 <br/>
+                    3:05 ━━━━━━━━━━━━━━●─ 3:17 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 13, 2025, 09:58 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 13, 2025, 10:23 AM</sub>
 </div>
 
 </div>
