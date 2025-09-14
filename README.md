@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27339beeb380016e552da25380d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2731f53901af46c5a6ca3b91f7e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Magic Maid (feat. KASANE TETO) by: MIMI 🎶 <br/>
-                    2:25 ━━━━━━━━━●────── 3:39 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 人質交換 by: DECO*27 🎶 <br/>
+                    1:49 ━━━━━━━━●─────── 3:13 <br/>
                     Volume: ■■■■■■■■ <br/>
-                    <span>↻      ◁ ▷ ▷     ↺ </span>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 14, 2025, 10:27 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 14, 2025, 10:36 PM</sub>
 </div>
 
 </div>
