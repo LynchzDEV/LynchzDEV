@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2736cc28a2751b6be6d4ef842e9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273615e5c8d833072a27108c05a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> テレパシ by: DECO*27 🎶 <br/>
-                    2:04 ━━━━━━━━━●────── 3:07 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ダイジョブですか？ (feat. 初音ミク) by: cosMo@Bousou-P 🎶 <br/>
+                    1:56 ━━━━━━━●──────── 3:39 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 14, 2025, 10:45 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 14, 2025, 10:54 AM</sub>
 </div>
 
 </div>
