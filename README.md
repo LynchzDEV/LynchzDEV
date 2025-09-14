@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27368a98fbab0b01a7f59f7f6f3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273cc06d6df938a0fe20a1c841f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Machine Love by: Jamie Paige 🎶 <br/>
-                    1:36 ━━━━━●────────── 4:29 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> juzoku-furitta- by: koyori(電ポルP) 🎶 <br/>
+                    0:47 ━━●───────────── 4:23 <br/>
                     Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 14, 2025, 02:12 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 14, 2025, 02:27 PM</sub>
 </div>
 
 </div>
