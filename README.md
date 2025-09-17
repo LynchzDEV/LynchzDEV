@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273c2426afbb6e4a624e588cd21" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ワールドイズマイン-初音ミク「マジカルミライ 2021」Live- (feat. 初音ミク) by: ryo (supercell) 🎶 <br/>
-                    0:36 ━━●───────────── 4:26 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    0:54 ━━━●──────────── 3:39 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 17, 2025, 06:37 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 17, 2025, 06:46 PM</sub>
 </div>
 
 </div>
