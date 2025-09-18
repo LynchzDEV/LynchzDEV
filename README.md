@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2734d35f9a13b9cc41b76893c05" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273e25de4d0fe9c37455ed73203" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> THE SHINING by: mudy on the 昨晩 🎶 <br/>
-                    3:13 ━━━━━━━━━━━━●─── 4:01 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Another Ride by: ippo.tsk 🎶 <br/>
+                    3:27 ━━━━━━━━━━●───── 4:45 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 19, 2025, 04:56 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 19, 2025, 05:18 AM</sub>
 </div>
 
 </div>
