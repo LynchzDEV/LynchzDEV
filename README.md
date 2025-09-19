@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734885fcf491be05cf48356a1f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Halftone Pattern by: Tenchio 🎶 <br/>
-                    1:59 ━━━━━━━●──────── 3:50 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    2:31 ━━━━━━━━●─────── 4:32 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 19, 2025, 09:39 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 19, 2025, 10:23 AM</sub>
 </div>
 
 </div>
