@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273b62e03672bd2a8a7587db6da" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> インスタント・ラヴ by: MIMiNARI 🎶 <br/>
-                    2:40 ━━━━━━━━●─────── 4:54 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    2:34 ━━━━━━━━━━━●──── 3:26 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 21, 2025, 03:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 21, 2025, 04:13 PM</sub>
 </div>
 
 </div>
