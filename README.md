@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2737d1fa67d6b3c58833bf0c45c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273deb61645d3bb3c7f5deb314e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> How much I Love you,baby by: Satellite Lovers 🎶 <br/>
-                    1:56 ━━━━━━━●──────── 3:50 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> リップグロスの記憶 (Lip Gloss Memory) by: Retro City Pop 🎶 <br/>
+                    2:19 ━━━━━━━━●─────── 3:56 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 22, 2025, 02:35 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 22, 2025, 02:44 AM</sub>
 </div>
 
 </div>
