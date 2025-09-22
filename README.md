@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273c82b730d2231d80073623951" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 九尾 by: 9Lana 🎶 <br/>
-                    2:43 ━━━━━━━━━━━━━●── 3:07 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    2:34 ━━━━━━━●──────── 4:57 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 22, 2025, 08:57 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 22, 2025, 09:20 PM</sub>
 </div>
 
 </div>
