@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ヒビカセ by: Reol 🎶 <br/>
-                    1:10 ━━━━●─────────── 3:50 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    2:02 ━━━━━━━●──────── 4:06 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 26, 2025, 03:20 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 26, 2025, 03:44 PM</sub>
 </div>
 
 </div>
