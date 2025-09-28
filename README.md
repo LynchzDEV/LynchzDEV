@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2732f6f23c98f8411c25c16556e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 確定一発 by: 9Lana 🎶 <br/>
-                    0:30 ━━●───────────── 3:37 <br/>
-                    Volume: ■■■■■■■□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    3:07 ━━━━━━━━━━━●──── 4:11 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 28, 2025, 11:54 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 28, 2025, 12:13 PM</sub>
 </div>
 
 </div>
