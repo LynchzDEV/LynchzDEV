@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2731fc3282c55639f5fb6b8aa2f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ネオラダイト by: 9Lana 🎶 <br/>
-                    2:04 ━━━━━━━━●─────── 3:27 <br/>
+                    3:08 ━━━━━━━━━━━●──── 4:07 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 29, 2025, 12:37 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 29, 2025, 12:45 AM</sub>
 </div>
 
 </div>
