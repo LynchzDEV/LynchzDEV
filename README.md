@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734aceaab49ab2d13abbd6dcd2" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Heart Of Glass by: Alohaii 🎶 <br/>
-                    1:25 ━━━━━━●───────── 3:04 <br/>
+                    2:23 ━━━━━━━━━●────── 3:37 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 30, 2025, 05:20 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 30, 2025, 05:39 PM</sub>
 </div>
 
 </div>
