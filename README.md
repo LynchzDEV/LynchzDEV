@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d467ccfb4ffc536935a28451" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> glitters by: mididuck 🎶 <br/>
-                    2:44 ━━━━━━━━━●────── 4:15 <br/>
+                    3:08 ━━━━━━━━━━●───── 4:21 <br/>
                     Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 30, 2025, 10:54 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Sep 30, 2025, 11:17 AM</sub>
 </div>
 
 </div>
