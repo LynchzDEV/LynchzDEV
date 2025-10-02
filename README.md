@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2730a5e50881da27e2ac689ddbc" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Mizumomiji to Negai by: 藍空と月 🎶 <br/>
-                    3:06 ━━━━━━━━━━━━●─── 3:36 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    1:34 ━━━━━━━●──────── 3:02 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 2, 2025, 10:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 2, 2025, 11:17 AM</sub>
 </div>
 
 </div>
