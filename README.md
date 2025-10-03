@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2732a9ebf1b9571be0a95b90f15" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Universe Cat Drowning - Endless by: Nehan no Yoru 涅槃の夜 🎶 <br/>
-                    2:47 ━━━━━━━━●─────── 4:54 <br/>
-                    Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    2:17 ━━━━━━━●──────── 4:27 <br/>
+                    Volume: ■■■■■■■□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 3, 2025, 03:54 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 3, 2025, 04:14 PM</sub>
 </div>
 
 </div>
