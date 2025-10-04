@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> One Step Closer by: Linkin Park 🎶 <br/>
-                    2:31 ━━━━━━━━●─────── 4:42 <br/>
+                    1:33 ━━━━●─────────── 4:58 <br/>
                     Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 5, 2025, 05:43 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 5, 2025, 05:53 AM</sub>
 </div>
 
 </div>
