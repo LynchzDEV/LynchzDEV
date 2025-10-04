@@ -32,10 +32,10 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b2730db7dfa1f7ec5209aa1c2226" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ハローセカイ - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
-                    0:35 ━━●───────────── 3:19 <br/>
-                    Volume: ■■■□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Worlders - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
+                    1:54 ━━━━━━━●──────── 3:39 <br/>
+                    Volume: ■■■■■□□□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 4, 2025, 12:43 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 4, 2025, 12:53 PM</sub>
 </div>
 
 </div>
