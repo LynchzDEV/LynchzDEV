@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273377494d6fad25d8087e2de81" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 秘密の見知らぬ花 by: ミツキヨ 🎶 <br/>
-                    1:42 ━━━━━●────────── 4:54 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    2:25 ━━━━━━━●──────── 4:46 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 6, 2025, 12:43 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 6, 2025, 12:53 PM</sub>
 </div>
 
 </div>
