@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273de859e2218361f328edc10a9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 献花の番人 by: 黒魔 (Chroma) 🎶 <br/>
-                    2:33 ━━━━━━━━━●────── 3:50 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    1:28 ━━━━●─────────── 4:58 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 7, 2025, 10:54 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 7, 2025, 11:17 AM</sub>
 </div>
 
 </div>
