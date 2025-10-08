@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27336adeb87be14c47ea8096d3b" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> moiikai by: MIMI 🎶 <br/>
-                    3:28 ━━━━━━━━━━━━●─── 4:10 <br/>
+                    2:42 ━━━━━━━━●─────── 4:43 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 8, 2025, 09:35 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 8, 2025, 10:18 AM</sub>
 </div>
 
 </div>
