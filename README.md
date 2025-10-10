@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273bc16d1eefe86b079c8805f8f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> KANATA HALUKA by: RADWIMPS 🎶 <br/>
-                    1:00 ━━━●──────────── 4:45 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Suzume by: RADWIMPS 🎶 <br/>
+                    2:52 ━━━━━━━━━━━●──── 3:49 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 10, 2025, 05:47 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 10, 2025, 05:55 PM</sub>
 </div>
 
 </div>
