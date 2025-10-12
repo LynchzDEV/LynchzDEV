@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2730efc30c211a1ebcc148c0c6a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 頬杖 by: mei ehara 🎶 <br/>
-                    0:38 ━━●───────────── 4:09 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    3:18 ━━━━━━━━━━━━━━━● 3:16 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 12, 2025, 04:47 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 12, 2025, 04:55 PM</sub>
 </div>
 
 </div>
