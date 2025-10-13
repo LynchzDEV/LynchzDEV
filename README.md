@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27327efd373e3c0bc4d33e21b7d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 潮騒 by: paris match 🎶 <br/>
-                    3:02 ━━━━━━━━━━━━●─── 3:47 <br/>
-                    Volume: ■■■■□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:24 ━━━━●─────────── 4:13 <br/>
+                    Volume: ■□□□□□□□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 13, 2025, 12:54 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 13, 2025, 01:23 PM</sub>
 </div>
 
 </div>
