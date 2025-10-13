@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273b0f94719c0ec72a1db1c05d9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> hello by: Ichiko Aoba 🎶 <br/>
-                    3:03 ━━━━━━━━━●────── 4:39 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    2:40 ━━━━━━━━━━━━●─── 3:05 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 13, 2025, 02:37 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 13, 2025, 02:46 PM</sub>
 </div>
 
 </div>
