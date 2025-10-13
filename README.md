@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27306d825c301ef6e80db46dda1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> shan-lila shan-lula by: mamerico 🎶 <br/>
-                    0:58 ━━━━●─────────── 3:01 <br/>
-                    Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:32 ━━━━●─────────── 4:43 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 13, 2025, 06:56 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 13, 2025, 07:36 PM</sub>
 </div>
 
 </div>
