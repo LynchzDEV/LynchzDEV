@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e0ed8e10e32655eec875af0c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Rei by: NUUAMM 🎶 <br/>
-                    3:24 ━━━━━━━━━━━●──── 4:27 <br/>
+                    3:04 ━━━━━━━━━━━━●─── 3:41 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 14, 2025, 05:48 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 14, 2025, 05:57 PM</sub>
 </div>
 
 </div>
