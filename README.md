@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e31a6789daa459c766655b24" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 月に照らされ、風に揺れる華 by: Hanafugetsu 🎶 <br/>
-                    1:55 ━━━━━━━━●─────── 3:15 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:16 ━━━━━●────────── 3:14 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 17, 2025, 12:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 17, 2025, 01:21 PM</sub>
 </div>
 
 </div>
