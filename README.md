@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273caeb0a6e437142aa3a788aeb" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> NoTE by: 楠木ともり 🎶 <br/>
-                    0:43 ━━●───────────── 4:59 <br/>
+                    1:47 ━━━━━━●───────── 4:24 <br/>
                     Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 20, 2025, 01:42 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 20, 2025, 01:53 AM</sub>
 </div>
 
 </div>
