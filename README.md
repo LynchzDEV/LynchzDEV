@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2736e8b8cb4a4fb3388be943577" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Season flies before I knew it by: Camellia 🎶 <br/>
-                    2:46 ━━━━━━━━━━━━●─── 3:17 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:07 ━━━━━━━━━●────── 3:17 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 21, 2025, 02:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 21, 2025, 03:21 PM</sub>
 </div>
 
 </div>
