@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2735e25b9c9affd31b6a2a4e615" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> CALL by: スカート 🎶 <br/>
-                    2:36 ━━━━━━━━━━●───── 3:38 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    1:37 ━━━━━━●───────── 3:38 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 23, 2025, 09:15 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 23, 2025, 09:39 PM</sub>
 </div>
 
 </div>
