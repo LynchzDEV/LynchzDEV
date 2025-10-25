@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273248a6e26a604a985c0be5c5c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> I Want You by: Stephen Sanchez 🎶 <br/>
-                    2:24 ━━━━━━━━━━━●──── 3:13 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    2:41 ━━━━━━━━━━●───── 3:46 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 26, 2025, 12:30 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 26, 2025, 12:40 AM</sub>
 </div>
 
 </div>
