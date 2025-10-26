@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273dd372776cd6367b9f28204e1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 景色一空 by: KUKIKODAN 🎶 <br/>
-                    2:47 ━━━━━━━━●─────── 4:40 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    2:19 ━━━━━━━●──────── 4:53 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 27, 2025, 02:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 27, 2025, 03:15 AM</sub>
 </div>
 
 </div>
