@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27382eb52471d6c358f91696191" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 青の魔法 by: ChoQMay 🎶 <br/>
-                    1:52 ━━━━━━━●──────── 3:56 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    3:17 ━━━━━━━━━━━━━━━● 3:15 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 27, 2025, 09:18 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 27, 2025, 09:38 PM</sub>
 </div>
 
 </div>
