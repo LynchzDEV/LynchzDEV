@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e764984f7427339d7d2a15af" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Our Broken Promises by: No Buses 🎶 <br/>
-                    0:55 ━━●───────────── 4:37 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    3:19 ━━━━━━━━━━━━━━━● 3:12 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 29, 2025, 12:36 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 29, 2025, 12:47 PM</sub>
 </div>
 
 </div>
