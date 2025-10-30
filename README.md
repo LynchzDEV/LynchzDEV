@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2735f8e00a3b2a515b1a8fa66bd" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Against the Tide(Original Game Soundtrack) by: Wuthering Waves 🎶 <br/>
-                    3:00 ━━━━━━━━━━━━━●── 3:13 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Still With You by: Jung Kook 🎶 <br/>
+                    3:24 ━━━━━━━━━━━━━●── 3:50 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 12:40 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 12:48 AM</sub>
 </div>
 
 </div>
