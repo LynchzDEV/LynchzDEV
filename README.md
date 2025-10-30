@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2730a570879ea1b0b3d86abfdcc" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273b9d9cc58c4ef69bc22e3b583" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> forever & by: EJEAN 🎶 <br/>
-                    0:51 ━━━●──────────── 4:03 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> it's just you, my dear by: asumuh 🎶 <br/>
+                    1:23 ━━━━●─────────── 4:17 <br/>
                     Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 03:16 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 03:35 AM</sub>
 </div>
 
 </div>
