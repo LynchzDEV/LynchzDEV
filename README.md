@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2730221db12ee8248145c2a6190" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ウゴクオト by: FantasticYouth 🎶 <br/>
-                    1:14 ━━━━━●────────── 3:39 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    2:54 ━━━━━━━━━━━●──── 3:53 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▷ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 30, 2025, 11:41 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 30, 2025, 11:53 AM</sub>
 </div>
 
 </div>
