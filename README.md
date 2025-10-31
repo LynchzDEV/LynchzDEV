@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273669e0e15aa00523bf173b05a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ただ、透明 by: ユノギ シロ 🎶 <br/>
-                    1:48 ━━━━━━━━●─────── 3:01 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    3:18 ━━━━━━━━━━━━━●── 3:35 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 05:16 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 05:38 PM</sub>
 </div>
 
 </div>
