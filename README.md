@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a5a8dbb7a5ef133a6ed71db9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Starry by: 花鋏キョウ 🎶 <br/>
-                    0:38 ━━●───────────── 4:30 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    1:39 ━━━━━━●───────── 3:40 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 06:48 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Oct 31, 2025, 06:56 PM</sub>
 </div>
 
 </div>
