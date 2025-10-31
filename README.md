@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2733a4321ff8f0eea6049c3de21" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2734ff2c89e64a30723bad0a9a7" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> DOORS by: 電音部 🎶 <br/>
-                    1:33 ━━━━━━●───────── 3:39 <br/>
-                    Volume: ■■■■■■■■ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 刹那、夏が終わっていく by: こはならむ 🎶 <br/>
+                    3:06 ━━━━━━━━━━━━●─── 3:43 <br/>
+                    Volume: ■■■□□□□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 1, 2025, 12:18 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 1, 2025, 12:34 AM</sub>
 </div>
 
 </div>
