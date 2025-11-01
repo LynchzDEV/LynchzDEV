@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2733ea2ac6f9b8709ce6760b791" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Rav#girl by: Srav3R 🎶 <br/>
-                    2:38 ━━━━━━━━━━━━●─── 3:05 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    2:23 ━━━━━━━━●─────── 4:14 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 1, 2025, 11:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 1, 2025, 11:54 PM</sub>
 </div>
 
 </div>
