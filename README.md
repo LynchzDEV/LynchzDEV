@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2730d30a745ac9fb4d269a8ebeb" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Nagagutsu to Aikagi by: 藍空と月 🎶 <br/>
-                    1:25 ━━━━━━●───────── 3:05 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    1:12 ━━━●──────────── 4:34 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 1, 2025, 01:44 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 1, 2025, 01:53 PM</sub>
 </div>
 
 </div>
