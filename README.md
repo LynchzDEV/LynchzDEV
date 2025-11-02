@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273f66c8c68a9710d44745c7680" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Come Inside Of My Heart by: IV OF SPADES 🎶 <br/>
-                    2:43 ━━━━━━━━━━━━●─── 3:13 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:09 ━━━━━━━━●─────── 3:38 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 2, 2025, 09:43 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 2, 2025, 09:53 PM</sub>
 </div>
 
 </div>
