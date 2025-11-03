@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273b844af52de9e4d1e3be1adc6" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Se mettre sur son trente-et-un ! by: HOYO-MiX 🎶 <br/>
-                    0:51 ━━━●──────────── 3:59 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:44 ━━●───────────── 4:51 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 3, 2025, 12:56 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 3, 2025, 01:30 PM</sub>
 </div>
 
 </div>
