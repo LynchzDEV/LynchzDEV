@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e562d2895d47c419758887d9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 六兆年と一夜物語 by: WagakkiBand 🎶 <br/>
-                    2:41 ━━━━━━━━━●────── 4:27 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:39 ━━━━━━━━━━●───── 3:57 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 4, 2025, 12:46 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 4, 2025, 12:54 PM</sub>
 </div>
 
 </div>
