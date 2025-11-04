@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273f1a946f93424397c85b883c1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Follow the Nightingale by: KOKIA 🎶 <br/>
-                    0:50 ━━━●──────────── 4:04 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    3:07 ━━━━━━━━━━●───── 4:27 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 5, 2025, 03:57 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 5, 2025, 04:18 AM</sub>
 </div>
 
 </div>
