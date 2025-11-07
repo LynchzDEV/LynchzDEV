@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2736140e047119bcede6ea45526" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2734906b8bbd16ff1bde2061db5" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> cabin in the woods by: L O K P I K 🎶 <br/>
-                    2:25 ━━━━━━━●──────── 4:49 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> August 15 (Forked) by: FUNLETTERS 🎶 <br/>
+                    2:42 ━━━━━━━━━●────── 4:15 <br/>
                     Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 7, 2025, 08:11 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 7, 2025, 09:48 AM</sub>
 </div>
 
 </div>
