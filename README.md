@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273a866cb109338e1e58c2bf51e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 二十二時の絵本 by: ミツキヨ 🎶 <br/>
-                    1:36 ━━━━━●────────── 4:34 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 二十四時の念願 by: ミツキヨ 🎶 <br/>
+                    0:48 ━━━●──────────── 3:55 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 8, 2025, 06:29 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 8, 2025, 06:39 AM</sub>
 </div>
 
 </div>
