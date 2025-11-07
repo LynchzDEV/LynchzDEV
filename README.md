@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27373317608e40652b6b06ed3a4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Infernal Angel by: Axenstar 🎶 <br/>
-                    0:48 ━━━●──────────── 3:44 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    2:44 ━━━━━━━━━━●───── 3:47 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 8, 2025, 03:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 8, 2025, 04:10 AM</sub>
 </div>
 
 </div>
