@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27390e488c44cea1c01b72b74f8" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Butterfly Bossa by: Seycara Orchestral 🎶 <br/>
-                    0:52 ━━━━●─────────── 3:12 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    0:41 ━━●───────────── 3:55 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 8, 2025, 10:48 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 8, 2025, 10:57 AM</sub>
 </div>
 
 </div>
