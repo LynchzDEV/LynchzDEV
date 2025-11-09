@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b2736947b1f9704ae93c3b7514ae" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 雨の日トロイメライ by: ミツキヨ 🎶 <br/>
-                    2:33 ━━━━━━━━━━●───── 3:33 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Our home by: ミツキヨ 🎶 <br/>
+                    1:15 ━━━━━●────────── 3:11 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 9, 2025, 01:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 9, 2025, 01:54 PM</sub>
 </div>
 
 </div>
