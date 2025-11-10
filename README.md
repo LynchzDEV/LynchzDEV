@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b2733bbc32307b12bc7b7eaffbbb" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Mirai Rewriter (feat. Hatsune Miku) by: irucaice 🎶 <br/>
-                    1:33 ━━━━●─────────── 4:57 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Orca (feat. Hatsune Miku) by: irucaice 🎶 <br/>
+                    2:27 ━━━━━━━━━━━●──── 3:08 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 11, 2025, 02:14 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 11, 2025, 02:38 AM</sub>
 </div>
 
 </div>
