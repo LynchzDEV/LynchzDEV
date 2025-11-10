@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273bc16d1eefe86b079c8805f8f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Tears of Suzume by: RADWIMPS 🎶 <br/>
-                    1:52 ━━━━━●────────── 4:57 <br/>
-                    Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:36 ━━━━●─────────── 4:58 <br/>
+                    Volume: ■■■■■■■■ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 10, 2025, 12:46 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 10, 2025, 12:55 PM</sub>
 </div>
 
 </div>
