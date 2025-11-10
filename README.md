@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2731db9563402d8a4851be97ca5" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 39 Music! by: Mikito P 🎶 <br/>
-                    2:16 ━━━━━━━━━━●───── 3:14 <br/>
+                    0:33 ━━●───────────── 3:18 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 10, 2025, 07:32 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 10, 2025, 08:17 PM</sub>
 </div>
 
 </div>
