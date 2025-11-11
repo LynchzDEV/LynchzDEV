@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273944e17fff25bf08b3d6900f0" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273973f1484a5baa215af959bb3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 自傷無色　ねこぼーろver. by: sasanomaly 🎶 <br/>
-                    1:35 ━━━━━●────────── 4:16 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Zureteiku by: wowaka 🎶 <br/>
+                    1:29 ━━━━━━●───────── 3:12 <br/>
                     Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 11, 2025, 11:48 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 11, 2025, 11:56 AM</sub>
 </div>
 
 </div>
