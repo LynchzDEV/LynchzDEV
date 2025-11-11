@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273ded584a1f48718a318459e47" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27383ea254a9531b5ff960398bb" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Synchronizedrome by: youまん 🎶 <br/>
-                    3:12 ━━━━━━━━━━━●──── 4:18 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Yuguleoneroom (feat. Chano) by: 40mP 🎶 <br/>
+                    1:23 ━━━━━●────────── 3:56 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 12, 2025, 05:34 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 12, 2025, 05:45 AM</sub>
 </div>
 
 </div>
