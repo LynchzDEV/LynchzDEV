@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273c236e7775f4ecffe4558c07b" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> No, Thank You! (From K-On!!) by: Ho - Kago Tea Time 🎶 <br/>
-                    3:20 ━━━━━━━━━━━━●─── 3:57 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    1:15 ━━━━●─────────── 4:15 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 15, 2025, 01:48 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 15, 2025, 01:58 AM</sub>
 </div>
 
 </div>
