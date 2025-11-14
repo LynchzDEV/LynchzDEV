@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273f785ff4ac515df3e34f0d8a4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Yeah! Yeah! Yeah! by: Lefty Hand Cream 🎶 <br/>
-                    0:49 ━━━●──────────── 3:54 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:48 ━━━━━━●───────── 4:07 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 14, 2025, 02:31 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 14, 2025, 02:44 PM</sub>
 </div>
 
 </div>
