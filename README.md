@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734946f071033faa38e9e33cb0" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 三時のキス by: Rokudenashi 🎶 <br/>
-                    1:35 ━━━━━━━●──────── 3:09 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    2:58 ━━━━━━━━━━━●──── 3:56 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 14, 2025, 09:50 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 14, 2025, 10:42 AM</sub>
 </div>
 
 </div>
