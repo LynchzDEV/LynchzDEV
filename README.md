@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Lost Umbrella by: 稲葉曇 🎶 <br/>
-                    0:55 ━━━●──────────── 4:35 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> しかばねの踊り by: Kikuo 🎶 <br/>
+                    0:54 ━━━●──────────── 3:25 <br/>
                     Volume: ■■■■■■■■ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 15, 2025, 06:11 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 15, 2025, 06:26 PM</sub>
 </div>
 
 </div>
