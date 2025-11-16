@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273993c51ad09ecc6316f8fb55e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273e8df30b5ef04b6319e58431c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> アフターエポックス (feat. 初音ミク) by: sasakure.UK 🎶 <br/>
-                    2:24 ━━━━━━━━━━●───── 3:27 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 39みゅーじっく！-初音ミク「マジカルミライ」10th Anniversary Live- (feat. 初音ミク) by: Mikito P 🎶 <br/>
+                    3:24 ━━━━━━━━━━━●──── 4:37 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 16, 2025, 03:42 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 16, 2025, 03:53 PM</sub>
 </div>
 
 </div>
