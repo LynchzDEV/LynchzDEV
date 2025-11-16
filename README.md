@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273e9f56eb746b0f0d17cce81c3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273ce52b61d57601e72755ec5ce" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> きみとそらをとぶ (feat. 初音ミク&巡音ルカ) by: 傘村トータ 🎶 <br/>
-                    0:57 ━━●───────────── 4:50 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Spirit in the Mirror by: Rishie-P 🎶 <br/>
+                    0:35 ━━●───────────── 3:36 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 16, 2025, 12:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 16, 2025, 12:53 PM</sub>
 </div>
 
 </div>
