@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273384850c46c22b0685d6def6f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> カラカラ by: 結束バンド 🎶 <br/>
-                    1:03 ━━━●──────────── 4:36 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    3:15 ━━━━━━━━━━━━━━━● 3:04 <br/>
+                    Volume: ■■■■■■■□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 18, 2025, 12:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 18, 2025, 01:22 AM</sub>
 </div>
 
 </div>
