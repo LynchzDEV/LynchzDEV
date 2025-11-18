@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2736c9b03da2955f479cc397ed9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273f92433c61ca99f1fdc3fa5c1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Hollow Men by: 黒崎真音 🎶 <br/>
-                    2:37 ━━━━━━━━●─────── 4:43 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 奈落の花 by: Eiko Shimamiya 🎶 <br/>
+                    0:37 ━━●───────────── 4:07 <br/>
                     Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 19, 2025, 12:46 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 19, 2025, 12:55 AM</sub>
 </div>
 
 </div>
