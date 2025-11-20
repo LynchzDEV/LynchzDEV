@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Call Me Maybe by: Carly Rae Jepsen 🎶 <br/>
-                    1:54 ━━━━━━━●──────── 3:43 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:05 ━━━━━━━●──────── 3:56 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 21, 2025, 03:46 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 21, 2025, 03:54 AM</sub>
 </div>
 
 </div>
