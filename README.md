@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273317f6d770605dc90183098af" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Two Faced Lovers by: dj-Jo 🎶 <br/>
-                    0:39 ━━●───────────── 4:02 <br/>
+                    3:13 ━━━━━━━━━━━━●─── 3:58 <br/>
                     Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 22, 2025, 03:17 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 22, 2025, 03:36 AM</sub>
 </div>
 
 </div>
