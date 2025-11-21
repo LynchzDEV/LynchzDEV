@@ -32,10 +32,10 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b2737ea8fc5b4965afa1ec80aa94" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 少女レイ - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
-                    3:27 ━━━━━━━━━━━━━●── 3:48 <br/>
-                    Volume: ■■■■■■■□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> リモコン - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
+                    1:13 ━━━━━●────────── 3:22 <br/>
+                    Volume: ■□□□□□□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 21, 2025, 11:19 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 21, 2025, 11:40 PM</sub>
 </div>
 
 </div>
