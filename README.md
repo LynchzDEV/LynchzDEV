@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27307b73502046411485d068ee3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> お人よし by: 物語シリーズ 🎶 <br/>
-                    1:29 ━━━━━●────────── 4:09 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    3:16 ━━━━━━━━━━━━●─── 3:47 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 22, 2025, 04:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 22, 2025, 05:14 PM</sub>
 </div>
 
 </div>
