@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27338a089cecb76e4fad5cd0d04" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> An abominably huge flower by: konoco 🎶 <br/>
-                    2:09 ━━━━━━●───────── 4:42 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    1:16 ━━━━●─────────── 4:39 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 23, 2025, 05:45 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 23, 2025, 05:53 AM</sub>
 </div>
 
 </div>
