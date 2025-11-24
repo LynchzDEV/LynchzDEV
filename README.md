@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2738ac9a9f8be568c147c26c72e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27389499106b4363f0377070cc0" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ハローセカイ by: Hatsune Miku 🎶 <br/>
-                    2:41 ━━━━━━━━━━●───── 3:40 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> はじまりの未来 by: Hatsune Miku 🎶 <br/>
+                    3:00 ━━━━━━━━━━●───── 4:21 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 24, 2025, 05:47 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 24, 2025, 05:55 PM</sub>
 </div>
 
 </div>
