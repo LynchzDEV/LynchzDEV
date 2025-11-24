@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273da208475ec5e11c1afb4869d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> undress me by: Cö shu Nie 🎶 <br/>
-                    1:19 ━━━━●─────────── 4:40 <br/>
+                    2:18 ━━━━━━━━━━━●──── 3:00 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 24, 2025, 11:43 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 24, 2025, 11:59 AM</sub>
 </div>
 
 </div>
