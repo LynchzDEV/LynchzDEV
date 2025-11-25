@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273607a9552bcbdd2b1855c8fd9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2732aef8d276fff89305d496234" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Conspiracist by: R Sound Design 🎶 <br/>
-                    3:13 ━━━━━━━━━●────── 4:51 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Ashes by: 秋aki 🎶 <br/>
+                    2:37 ━━━━━━━━━━━━━●── 3:01 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 25, 2025, 02:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 25, 2025, 03:21 PM</sub>
 </div>
 
 </div>
