@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2739f7f0be0ab4f75adadcd0db8" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> アプレラモート by: Hatsune Miku 🎶 <br/>
-                    3:24 ━━━━━━━━━━━━━━●─ 3:33 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    1:09 ━━━━━●────────── 3:05 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 27, 2025, 01:25 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 27, 2025, 01:52 PM</sub>
 </div>
 
 </div>
