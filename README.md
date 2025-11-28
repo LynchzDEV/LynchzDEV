@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273dff9c6aa4dee9697a0612f51" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> no signal - sped up by: juggsi 🎶 <br/>
-                    0:40 ━━━●──────────── 3:16 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    2:41 ━━━━━━━━━━━●──── 3:39 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 28, 2025, 10:54 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 28, 2025, 11:19 PM</sub>
 </div>
 
 </div>
