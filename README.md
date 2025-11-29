@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d88d04500649c09ace9eb64e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Hopscotch by: Ross Lara 🎶 <br/>
-                    1:00 ━━━●──────────── 4:29 <br/>
+                    1:27 ━━━━●─────────── 4:42 <br/>
                     Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 29, 2025, 08:10 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Nov 29, 2025, 09:48 AM</sub>
 </div>
 
 </div>
