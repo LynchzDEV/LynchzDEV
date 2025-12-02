@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27343c1476e8835e45aa2aa370b" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273c273a69726da08e6b6f30927" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> September Rain - Japanese Version 2018 Remaster by: Makoto Matsushita 🎶 <br/>
-                    1:23 ━━━━━━●───────── 3:24 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> heavy lashes by: Ichiko Aoba 🎶 <br/>
+                    2:12 ━━━━━━━━━●────── 3:20 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 2, 2025, 02:47 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 2, 2025, 02:56 PM</sub>
 </div>
 
 </div>
