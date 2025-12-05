@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273554c9b7828d29d47d9f29a94" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Yasou by: 藍空と月 🎶 <br/>
-                    2:57 ━━━━━━━━━━━━━●── 3:17 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:39 ━●────────────── 4:58 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 5, 2025, 08:14 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 5, 2025, 09:56 AM</sub>
 </div>
 
 </div>
