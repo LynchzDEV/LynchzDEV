@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27360c85378b383d2abd5c697aa" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Paralyzed Ash by: Sennzai 🎶 <br/>
-                    2:35 ━━━━━━━━━━●───── 3:45 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    0:41 ━━━●──────────── 3:07 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 5, 2025, 11:20 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 5, 2025, 11:48 PM</sub>
 </div>
 
 </div>
