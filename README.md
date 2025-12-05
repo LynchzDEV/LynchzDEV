@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a2f3d4936b6f398d90949081" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> M@GICAL CURE! LOVE SHOT! (feat. Hatsune Miku) by: SAWTOWNE 🎶 <br/>
-                    1:13 ━━━━●─────────── 4:10 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    1:18 ━━━━●─────────── 4:29 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 5, 2025, 01:25 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 5, 2025, 01:53 PM</sub>
 </div>
 
 </div>
