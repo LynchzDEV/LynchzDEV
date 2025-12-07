@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2735f25785d8d2bfc189684c7a6" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Shiromukuniarazu by: Lucia 🎶 <br/>
-                    1:07 ━━━━━●────────── 3:21 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    0:36 ━━●───────────── 4:16 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 8, 2025, 04:28 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 8, 2025, 04:39 AM</sub>
 </div>
 
 </div>
