@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d16831527ee5c1edd9327b78" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Winter Wonderland - Spotify Singles Holiday by: Laufey 🎶 <br/>
-                    0:55 ━━━●──────────── 3:36 <br/>
+                    2:18 ━━━━━━●───────── 4:57 <br/>
                     Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 13, 2025, 11:18 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 13, 2025, 11:41 PM</sub>
 </div>
 
 </div>
