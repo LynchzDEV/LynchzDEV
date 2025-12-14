@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2739251c5aa596cfbda5ae3df8e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> A Place for You by: Mage-P 🎶 <br/>
-                    1:33 ━━━━━━●───────── 3:47 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    2:48 ━━━━━━━━━━━━━●── 3:08 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 14, 2025, 04:17 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 14, 2025, 04:33 PM</sub>
 </div>
 
 </div>
