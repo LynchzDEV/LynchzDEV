@@ -32,8 +32,8 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273cc8841b723e1355ed445a4a6" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ニュース39 feat. 初音ミク by: Mitchie M 🎶 <br/>
-                    3:00 ━━━━━━━━━━●───── 4:14 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> キュート・メドレー〜アイドルサウンズ〜 feat. 初音ミク by: Mitchie M 🎶 <br/>
+                    0:42 ━━●───────────── 4:46 <br/>
                     Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 16, 2025, 12:01 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 16, 2025, 12:35 AM</sub>
 </div>
 
 </div>
