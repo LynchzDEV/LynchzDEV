@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2734f9855a769ef646ddc3f810d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2735f095f191a00d64849122a10" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> PURE WHITE by: Naisho no Pierced Earrings 🎶 <br/>
-                    1:00 ━━━●──────────── 4:51 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 絶滅によろしく by: szri 🎶 <br/>
+                    1:24 ━━━━━━●───────── 3:25 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 17, 2025, 05:35 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 17, 2025, 05:47 AM</sub>
 </div>
 
 </div>
