@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2730be25da761ef1afa8af3f31d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Funeral by: NEUN 🎶 <br/>
-                    0:32 ━━●───────────── 3:25 <br/>
-                    Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:51 ━━━━━━●───────── 4:12 <br/>
+                    Volume: ■■■■■■□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 17, 2025, 07:51 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 17, 2025, 08:30 PM</sub>
 </div>
 
 </div>
