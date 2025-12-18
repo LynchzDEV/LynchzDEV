@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2736763fbaa5a12cd38b612f3b7" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Be dyed red by: HIBANA 🎶 <br/>
-                    1:53 ━━━━━━●───────── 4:39 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:33 ━━━━━━━●──────── 3:00 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 19, 2025, 02:14 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 19, 2025, 02:28 AM</sub>
 </div>
 
 </div>
