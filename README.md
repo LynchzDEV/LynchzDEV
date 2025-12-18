@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273570876fc52c14f50440ab64d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 本当の音 by: KOKIA 🎶 <br/>
-                    3:12 ━━━━━━━━━━━●──── 4:20 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    2:23 ━━━━━━━━━━━●──── 3:04 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 18, 2025, 04:47 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 18, 2025, 04:57 PM</sub>
 </div>
 
 </div>
