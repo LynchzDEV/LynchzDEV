@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273de611771068aae410ff7eab4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273b5b0153648bdbce9f90a5fe1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> II.resignation by: Feryquitous 🎶 <br/>
-                    2:28 ━━━━━━━━●─────── 4:21 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> My Creator by: Mili 🎶 <br/>
+                    0:34 ━●────────────── 4:47 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 20, 2025, 02:13 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 20, 2025, 02:29 AM</sub>
 </div>
 
 </div>
