@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273de990166b20560d9efdc1fa8" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ปิดปาก by: ClorenThia 🎶 <br/>
-                    2:13 ━━━━━━━━━●────── 3:20 <br/>
+                    3:28 ━━━━━━━━━━━━━●── 3:58 <br/>
                     Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 19, 2025, 11:48 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 20, 2025, 12:00 AM</sub>
 </div>
 
 </div>
