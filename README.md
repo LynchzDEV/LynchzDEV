@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27367cceb7a2230ee12cacaa37f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 星屑のひかり by: Sakura Fujiwara 🎶 <br/>
-                    1:27 ━━━━━━●───────── 3:16 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:34 ━●────────────── 4:21 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 22, 2025, 12:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 22, 2025, 01:21 AM</sub>
 </div>
 
 </div>
