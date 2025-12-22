@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27399f7da0283a75dd9d7cee4e3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 拍手喝采歌合 by: supercell 🎶 <br/>
-                    0:34 ━━●───────────── 3:40 <br/>
+                    0:34 ━━●───────────── 3:05 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 23, 2025, 01:52 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 23, 2025, 02:13 AM</sub>
 </div>
 
 </div>
