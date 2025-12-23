@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273ef5a2f1d309ddc15ea6e9f78" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> No Surprises by: Juliana Chahayed 🎶 <br/>
-                    1:47 ━━━━━━━●──────── 3:22 <br/>
+                    3:07 ━━━━━━━━━━━━━━●─ 3:12 <br/>
                     Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 23, 2025, 08:51 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 23, 2025, 09:16 PM</sub>
 </div>
 
 </div>
