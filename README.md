@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2737ddd25efb37dabda5e46e6d4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> June's Moon by: Pocari Sweet波卡利甜 🎶 <br/>
-                    0:58 ━━━●──────────── 4:48 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    2:18 ━━━━━━━━━●────── 3:36 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 24, 2025, 01:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 24, 2025, 02:21 PM</sub>
 </div>
 
 </div>
