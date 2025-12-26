@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27374b9a0a138b331a6d1cbd32f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ホタルノヒカリ by: Ikimonogakari 🎶 <br/>
-                    2:31 ━━━━━━━━━━━━●─── 3:01 <br/>
+                    2:58 ━━━━━━━━━●────── 4:48 <br/>
                     Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 26, 2025, 12:34 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 26, 2025, 12:49 PM</sub>
 </div>
 
 </div>
