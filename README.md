@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27363ad728dda279db51279c016" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> signal by: Kanon Wakeshima 🎶 <br/>
-                    1:14 ━━━━●─────────── 3:57 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    3:00 ━━━━━━━━━●────── 4:45 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 27, 2025, 05:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 27, 2025, 06:12 PM</sub>
 </div>
 
 </div>
