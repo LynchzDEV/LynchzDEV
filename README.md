@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d7ee2b0acdea91e364bfd0c1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> トコハナ by: yanaginagi 🎶 <br/>
-                    3:06 ━━━━━━━━━●────── 4:44 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    1:53 ━━━━━━●───────── 4:41 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 27, 2025, 03:46 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 27, 2025, 03:57 PM</sub>
 </div>
 
 </div>
