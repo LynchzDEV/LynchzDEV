@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2736ee189e794a9886c322d14fd" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> まだここにいるの？ by: Toji 🎶 <br/>
-                    2:45 ━━━━━━━━━●────── 4:33 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    2:58 ━━━━━━━━━━━●──── 3:58 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 28, 2025, 03:54 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 28, 2025, 04:13 AM</sub>
 </div>
 
 </div>
