@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2734cda1565addd43e4a353d8e7" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2737797b90c9b00241d8002a465" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Sweetly Lullaby by: 青山吉能 🎶 <br/>
-                    2:46 ━━━━━━━━━━━●──── 3:39 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 精霊の舞～Dance of the Spirit by: KOKIA 🎶 <br/>
+                    2:20 ━━━━━━━●──────── 4:29 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 29, 2025, 04:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 29, 2025, 05:15 AM</sub>
 </div>
 
 </div>
