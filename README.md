@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273b4e7138a43e6c7a4023d835a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273f768912e6775efdcf712dcce" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 鏡面の波 - [Orchestra Ver.] by: YURiKA 🎶 <br/>
-                    2:47 ━━━━━━━━━━━━━●── 3:12 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 時の踊り子 by: DAZBEE 🎶 <br/>
+                    2:31 ━━━━━━━━━━━━●─── 3:01 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 29, 2025, 04:14 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 29, 2025, 04:31 AM</sub>
 </div>
 
 </div>
