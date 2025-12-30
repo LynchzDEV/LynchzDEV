@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273608bb3ffe169902e95d07e8e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Shoka by: Sennzai 🎶 <br/>
-                    3:02 ━━━━━━━━━━●───── 4:15 <br/>
+                    2:51 ━━━━━━━━━●────── 4:18 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 31, 2025, 12:34 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 31, 2025, 12:49 AM</sub>
 </div>
 
 </div>
