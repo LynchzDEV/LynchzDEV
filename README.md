@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273760144d52e6e8e88db00579a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273a1c48d7622d6fd3a15aae7ea" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Eternal Indigo by: mamomo 🎶 <br/>
-                    3:13 ━━━━━━━━━●────── 4:50 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Warmth of the Morning Sun by: Ayatake Ezaki 🎶 <br/>
+                    0:32 ━●────────────── 4:29 <br/>
                     Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 31, 2025, 11:09 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Dec 31, 2025, 11:49 AM</sub>
 </div>
 
 </div>
