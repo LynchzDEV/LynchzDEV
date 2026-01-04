@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273b99ce9b945d3821da2376aeb" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Mas?uerade Rhapsody Re?uest by: Ave Mujica 🎶 <br/>
-                    2:00 ━━━━━━━━●─────── 3:40 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    2:11 ━━━━━━━━●─────── 3:41 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 4, 2026, 01:25 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 4, 2026, 01:53 PM</sub>
 </div>
 
 </div>
