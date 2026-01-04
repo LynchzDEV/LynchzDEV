@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2737de4dbffeda7b3ab5a2e5c77" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> LOVE & ROLL by: supercell 🎶 <br/>
-                    1:56 ━━━━━━●───────── 4:33 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    2:38 ━━━━━━━━━●────── 4:23 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 5, 2026, 01:49 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 5, 2026, 01:59 AM</sub>
 </div>
 
 </div>
