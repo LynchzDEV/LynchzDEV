@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273ffae792c628ae7b7ee281121" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27382e22241cacfffded5920ffa" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 偽物の恋にさようなら by: ASCA 🎶 <br/>
-                    1:38 ━━━━━●────────── 4:28 <br/>
-                    Volume: ■■■■□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 自由落下とピノキオ by: Kanon Wakeshima 🎶 <br/>
+                    0:38 ━━━●──────────── 3:07 <br/>
+                    Volume: ■■■■■■■■ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 4, 2026, 09:14 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 4, 2026, 09:34 PM</sub>
 </div>
 
 </div>
