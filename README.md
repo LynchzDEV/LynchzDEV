@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2735377a35e0653a5054e355e3a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> I'm falling in love with my teacher by: 式浦躁吾 🎶 <br/>
-                    2:32 ━━━━━━━━●─────── 4:33 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    3:05 ━━━━━━━━━●────── 4:58 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 4, 2026, 05:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 4, 2026, 06:13 PM</sub>
 </div>
 
 </div>
