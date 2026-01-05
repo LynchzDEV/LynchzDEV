@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2739d9544d257b00f0b2cb2628c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> amu by: rourourourous 🎶 <br/>
-                    2:53 ━━━━━━━━━━━━━●── 3:15 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:30 ━━●───────────── 3:06 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 5, 2026, 08:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 5, 2026, 09:21 PM</sub>
 </div>
 
 </div>
