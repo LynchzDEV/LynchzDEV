@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Last Christmas by: Wham! 🎶 <br/>
-                    1:20 ━━━━━━●───────── 3:16 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:55 ━━●───────────── 4:48 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 7, 2026, 04:52 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 7, 2026, 05:19 PM</sub>
 </div>
 
 </div>
