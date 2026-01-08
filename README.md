@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273ad44bcb95d8a780bcdfa9f14" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 恋するドレス by: UWANOSORA 🎶 <br/>
-                    1:24 ━━━━━●────────── 3:56 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    2:45 ━━━━━━━━━━━━●─── 3:24 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 9, 2026, 05:41 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 9, 2026, 05:55 AM</sub>
 </div>
 
 </div>
