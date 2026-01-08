@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2735e5892810066db2746222364" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ナチュラル・ウーマン by: RYUSENKEI 🎶 <br/>
-                    1:59 ━━━━━━●───────── 4:51 <br/>
+                    0:43 ━━●───────────── 4:11 <br/>
                     Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 9, 2026, 01:56 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 9, 2026, 02:18 AM</sub>
 </div>
 
 </div>
