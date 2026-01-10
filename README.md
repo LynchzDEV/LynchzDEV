@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734289395fcfb6712e45644124" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> bless by: Laica 🎶 <br/>
-                    1:37 ━━━━━●────────── 4:50 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    1:00 ━━━●──────────── 4:29 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 10, 2026, 02:31 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 10, 2026, 02:44 PM</sub>
 </div>
 
 </div>
