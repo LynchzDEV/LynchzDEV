@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27347f773cb38bcc483d0b5c56c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> On a Starry Night by: HIBANA 🎶 <br/>
-                    1:56 ━━━━━━●───────── 4:49 <br/>
-                    Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    2:07 ━━━━━━●───────── 4:35 <br/>
+                    Volume: ■■■■■■□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 10, 2026, 01:24 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 10, 2026, 01:51 PM</sub>
 </div>
 
 </div>
