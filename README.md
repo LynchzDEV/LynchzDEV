@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27347f773cb38bcc483d0b5c56c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2739a65f48106cded28ae55dbaa" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> On a Starry Night by: HIBANA 🎶 <br/>
-                    2:07 ━━━━━━●───────── 4:35 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> トーキョー・キラーチューン by: アザミ 🎶 <br/>
+                    3:26 ━━━━━━━━━━━━━●── 3:50 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 10, 2026, 01:51 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 10, 2026, 02:15 PM</sub>
 </div>
 
 </div>
