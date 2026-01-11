@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27378c7ae36798d205888797ff2" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Reunion by: Aaron Cherof 🎶 <br/>
-                    2:08 ━━━━━━━●──────── 4:30 <br/>
+                    1:37 ━━━━━━●───────── 3:44 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 02:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 03:17 AM</sub>
 </div>
 
 </div>
