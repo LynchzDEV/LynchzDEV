@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2730efc30c211a1ebcc148c0c6a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2732bf2304a1de975964934dc0f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 戻らない by: mei ehara 🎶 <br/>
-                    2:26 ━━━━━━━━━━━●──── 3:14 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 裏通りランデヴ (Backstreet Rendezvous) by: Retro City Pop 🎶 <br/>
+                    0:37 ━━●───────────── 4:14 <br/>
                     Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 11, 2026, 06:56 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 11, 2026, 08:51 AM</sub>
 </div>
 
 </div>
