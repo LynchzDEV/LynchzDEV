@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2739f31553286bd249a902b50d4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Winter (The Wind Can Be Still) by: ConcernedApe 🎶 <br/>
-                    3:29 ━━━━━━━━━━●───── 4:56 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    1:47 ━━━━━━━●──────── 3:48 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 03:39 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 03:51 AM</sub>
 </div>
 
 </div>
