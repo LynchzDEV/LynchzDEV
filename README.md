@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273221a28e7c9e4c3c502767283" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 林檎売りの泡沫少女 - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
-                    2:04 ━━━━━━━━━●────── 3:13 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 吉原ラメント - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
+                    2:27 ━━━━━━━━●─────── 4:12 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 10:37 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 10:55 PM</sub>
 </div>
 
 </div>
