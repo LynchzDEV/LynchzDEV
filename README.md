@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273221a28e7c9e4c3c502767283" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ヴィラン - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
-                    2:26 ━━━━━━━━━━●───── 3:29 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    3:17 ━━━━━━━━━━━━━━●─ 3:26 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 02:22 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 12, 2026, 02:45 PM</sub>
 </div>
 
 </div>
