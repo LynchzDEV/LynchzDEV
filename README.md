@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b2737ed45b3a9a9b42d13851c77e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Face to Face by: 8D Wave 🎶 <br/>
-                    1:42 ━━━━━━●───────── 3:47 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Classical Audio Effect by: 8D Wave 🎶 <br/>
+                    1:29 ━━━━━●────────── 3:58 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 14, 2026, 02:22 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 14, 2026, 02:37 AM</sub>
 </div>
 
 </div>
