@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273352bd5927f48b368c113dc4f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273c80877ab88e2b5483c7f02e1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> The Christmas Song by: Elizabeth Rose Bloodflame 🎶 <br/>
-                    3:20 ━━━━━━━━━━━●──── 4:30 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ENJOY! JOY!! JOYFUL!!! by: IRyS 🎶 <br/>
+                    0:32 ━●────────────── 4:25 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 13, 2026, 06:54 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 13, 2026, 08:15 AM</sub>
 </div>
 
 </div>
