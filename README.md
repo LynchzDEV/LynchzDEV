@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2736f98d8da9d85e339441adc7c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Off With Their Heads by: Mori Calliope 🎶 <br/>
-                    1:45 ━━━━━━●───────── 4:13 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    2:44 ━━━━━━━━━●────── 4:32 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 13, 2026, 10:04 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 13, 2026, 11:07 AM</sub>
 </div>
 
 </div>
