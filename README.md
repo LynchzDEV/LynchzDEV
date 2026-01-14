@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2737f3287983dd7fb72108cb09d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Go-Getters by: Mori Calliope 🎶 <br/>
-                    2:39 ━━━━━━━━━━●───── 3:45 <br/>
-                    Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:51 ━━━━━━━●──────── 3:41 <br/>
+                    Volume: ■■■■■■■□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 14, 2026, 06:44 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 14, 2026, 06:54 PM</sub>
 </div>
 
 </div>
