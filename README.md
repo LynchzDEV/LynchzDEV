@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2733e0d05346299e86c58f75123" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Exist For Love by: AURORA 🎶 <br/>
-                    1:31 ━━━━━●────────── 3:52 <br/>
+                    1:03 ━━━━●─────────── 3:40 <br/>
                     Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 03:31 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 03:52 AM</sub>
 </div>
 
 </div>
