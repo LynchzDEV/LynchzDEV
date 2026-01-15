@@ -32,8 +32,8 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273221a28e7c9e4c3c502767283" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> とても素敵な六月でした - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
-                    1:21 ━━━━●─────────── 4:40 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ヴィラン - STUDY WITH MIKU ver. - by: STUDY WITH MIKU 🎶 <br/>
+                    1:20 ━━━━━●────────── 3:31 <br/>
                     Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 04:58 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 05:25 AM</sub>
 </div>
 
 </div>
