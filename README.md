@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2730bbe33f57e152116f8fd601c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2732b10ff4fd0f35e8298219892" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> A Street for You and Me Alone by: Wuthering Waves 🎶 <br/>
-                    2:44 ━━━━━━━━━━━●──── 3:37 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Sacred Tree Tale -Breath of Life- by: NEW MAHARA SHOP 🎶 <br/>
+                    3:07 ━━━━━━━━━━━━━●── 3:30 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 05:55 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 06:16 AM</sub>
 </div>
 
 </div>
