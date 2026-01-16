@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273387af43ad6b94c8c2ad14b89" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Serenade Carried by the Waves by: Wuthering Waves 🎶 <br/>
-                    0:48 ━━●───────────── 4:56 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    0:32 ━━●───────────── 3:23 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 05:58 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 06:23 PM</sub>
 </div>
 
 </div>
