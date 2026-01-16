@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273387af43ad6b94c8c2ad14b89" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2737702bc6d8f71453f8172d011" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Serenade Carried by the Waves by: Wuthering Waves 🎶 <br/>
-                    2:26 ━━━━━━━━━━━●──── 3:18 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Prayer -Wish for The Future- by: Graceful Music 🎶 <br/>
+                    1:16 ━━━━━●────────── 3:15 <br/>
                     Volume: ■■■■■■■■ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 12:56 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 01:31 AM</sub>
 </div>
 
 </div>
