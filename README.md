@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27300cba3561cd8a32af4f885f1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Yokoso by: VISUAL ARTS/team Aeca 🎶 <br/>
-                    2:34 ━━━━━━━━━●────── 4:13 <br/>
+                    1:24 ━━━━━━●───────── 3:08 <br/>
                     Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 10:26 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 16, 2026, 11:24 AM</sub>
 </div>
 
 </div>
