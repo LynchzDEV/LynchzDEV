@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734cf0b29eb06a92aa96acae64" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Ballad of the Cats by: C418 🎶 <br/>
-                    2:35 ━━━━━━━━●─────── 4:45 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    2:09 ━━━━━━━━━●────── 3:29 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 05:20 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 05:42 PM</sub>
 </div>
 
 </div>
