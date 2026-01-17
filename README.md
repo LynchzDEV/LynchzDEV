@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Minecraft by: C418 🎶 <br/>
-                    3:03 ━━━━━━━━━━━━━━●─ 3:08 <br/>
-                    Volume: ■■■□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:22 ━━━━━━●───────── 3:20 <br/>
+                    Volume: ■■■■■■■□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 03:43 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 17, 2026, 03:57 PM</sub>
 </div>
 
 </div>
