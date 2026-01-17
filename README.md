@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734cf0b29eb06a92aa96acae64" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Kyoto by: C418 🎶 <br/>
-                    2:25 ━━━━━━━●──────── 4:54 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:03 ━━━●──────────── 4:40 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 18, 2026, 06:48 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 18, 2026, 06:56 AM</sub>
 </div>
 
 </div>
