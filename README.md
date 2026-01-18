@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2732e05fd2e7fa984c228bdd637" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273d0598f07df27b05feb7681aa" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> วัดใจ by: Silly Fools 🎶 <br/>
-                    3:19 ━━━━━━━━━━━━●─── 4:01 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> นางงามตู้กระจก by: Carabao 🎶 <br/>
+                    1:35 ━━━━━━●───────── 3:54 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 18, 2026, 05:16 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 18, 2026, 05:39 PM</sub>
 </div>
 
 </div>
