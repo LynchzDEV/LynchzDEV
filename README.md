@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27332ed288a72536b6c7e5f7e0a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ฉันรักเธอ by: Tattoo Colour 🎶 <br/>
-                    0:58 ━━━●──────────── 3:54 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    3:21 ━━━━━━━━━━━●──── 4:24 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 18, 2026, 06:53 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 18, 2026, 07:31 PM</sub>
 </div>
 
 </div>
