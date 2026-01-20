@@ -32,8 +32,8 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b2738648f00596f0b29b652aca51" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Colors (feat. isui) by: Nao 🎶 <br/>
-                    3:22 ━━━━━━━━━━━━━━●─ 3:27 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> The price of tears (feat. isui) by: Nao 🎶 <br/>
+                    3:17 ━━━━━━━━━━━━━━●─ 3:21 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 21, 2026, 05:20 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 21, 2026, 05:42 AM</sub>
 </div>
 
 </div>
