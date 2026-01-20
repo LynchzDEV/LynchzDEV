@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27382e4a157803e6c46e1bd8f63" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27399c2d339c5e129b2d74c90ce" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Aunnobeats by: MAIGO 🎶 <br/>
-                    3:17 ━━━━━━━━━━━━━━●─ 3:20 <br/>
-                    Volume: ■■■■■■■□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Light of Sound (feat. Shinodasu) by: MIMI 🎶 <br/>
+                    1:54 ━━━━━━●───────── 4:28 <br/>
+                    Volume: ■□□□□□□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 20, 2026, 09:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 20, 2026, 10:27 PM</sub>
 </div>
 
 </div>
