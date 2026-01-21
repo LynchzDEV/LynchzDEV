@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27373cd8d2f78231f4612763cf9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Lipstick by: Haruka Kaminosono 🎶 <br/>
-                    2:32 ━━━━━━━━━━●───── 3:33 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    1:42 ━━━━━━●───────── 4:14 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 21, 2026, 11:15 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 21, 2026, 11:57 AM</sub>
 </div>
 
 </div>
