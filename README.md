@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d9ccd137df4a26609ae2e400" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Cosmic Love by: Yurie Kokubu 🎶 <br/>
-                    2:01 ━━━━━━━●──────── 4:19 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    2:41 ━━━━━━━━●─────── 4:39 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 23, 2026, 12:25 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 23, 2026, 12:49 PM</sub>
 </div>
 
 </div>
