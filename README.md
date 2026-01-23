@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27303ea1900840b8804f779f7b3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> A Night To Remember by: beabadoobee 🎶 <br/>
-                    1:10 ━━━━●─────────── 4:00 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    1:09 ━━━━●─────────── 4:06 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 23, 2026, 07:52 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 23, 2026, 08:39 PM</sub>
 </div>
 
 </div>
