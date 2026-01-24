@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27394dc8452e2e9b5e3a0a0675d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> grasp by: konoco 🎶 <br/>
-                    1:10 ━━━━●─────────── 3:38 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    1:20 ━━━━━●────────── 3:24 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 24, 2026, 09:16 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 24, 2026, 09:37 PM</sub>
 </div>
 
 </div>
