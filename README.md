@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b27373d485a177e43b3ee526669b" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 雨のあと by: Toji 🎶 <br/>
-                    3:20 ━━━━━━━━━━━━●─── 3:53 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 朝のコーヒー by: Toji 🎶 <br/>
+                    0:37 ━━●───────────── 4:17 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 25, 2026, 01:25 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 25, 2026, 01:51 AM</sub>
 </div>
 
 </div>
