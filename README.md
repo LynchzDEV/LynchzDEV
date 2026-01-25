@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d997b72c8c2d5251fe6b1a5d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Lost Soul - Slowed & Reverb by: NBSPLV 🎶 <br/>
-                    1:44 ━━━━━━━●──────── 3:41 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    1:47 ━━━━━━●───────── 4:23 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 26, 2026, 02:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 26, 2026, 03:18 AM</sub>
 </div>
 
 </div>
