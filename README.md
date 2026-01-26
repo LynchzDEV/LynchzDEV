@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27313ea35778890f692e2240e0a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27304af5aaa731358e7ba2444f9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Throwback by: Hyleo 🎶 <br/>
-                    2:58 ━━━━━━━━━━━━━━●─ 3:01 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> At Midnight by: Kei Morimoto 🎶 <br/>
+                    1:18 ━━━━━━●───────── 3:07 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 27, 2026, 03:48 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 27, 2026, 04:01 AM</sub>
 </div>
 
 </div>
