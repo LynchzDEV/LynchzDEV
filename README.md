@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273f531acd28734189a15a602d4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Fragments by: Aiobahn 🎶 <br/>
-                    2:12 ━━━━━━━●──────── 4:25 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:17 ━━━━━━━━●─────── 3:54 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 28, 2026, 04:58 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 28, 2026, 05:34 PM</sub>
 </div>
 
 </div>
