@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273ac7a466cd6bbcee790b6feff" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Remembrance by: Ujico* 🎶 <br/>
-                    0:47 ━━●───────────── 4:38 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:51 ━━━━━━━━━●────── 3:04 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 31, 2026, 06:35 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jan 31, 2026, 06:49 PM</sub>
 </div>
 
 </div>
