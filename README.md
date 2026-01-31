@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273013d6b5e12f57f6ac62ab4f2" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Emptyspace by: Yamafutatsu 🎶 <br/>
-                    0:47 ━━━●──────────── 3:17 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    0:57 ━━━●──────────── 3:44 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 1, 2026, 12:58 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 1, 2026, 01:38 AM</sub>
 </div>
 
 </div>
