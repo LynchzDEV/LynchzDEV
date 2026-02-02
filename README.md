@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273e3a8cc0c4984a9abe5c886b4" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27396186e3885054360c978a1a5" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> サンデーモーニングコーヒー by: Yunomi 🎶 <br/>
-                    0:59 ━━━●──────────── 4:21 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Wakusei Rabbit (feat. TORIENA) by: Yunomi 🎶 <br/>
+                    2:00 ━━━━━━●───────── 4:34 <br/>
                     Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 2, 2026, 11:18 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 3, 2026, 12:05 AM</sub>
 </div>
 
 </div>
