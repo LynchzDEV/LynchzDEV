@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273570876fc52c14f50440ab64d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 本当の音 by: KOKIA 🎶 <br/>
-                    0:50 ━━●───────────── 4:36 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> もう一度… by: KOKIA 🎶 <br/>
+                    3:04 ━━━━━━━━━━●───── 4:11 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 5, 2026, 05:50 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 5, 2026, 06:21 AM</sub>
 </div>
 
 </div>
