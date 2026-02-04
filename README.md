@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734be6ed1dc2fffb598bcd3221" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Azure World by: YUKIYANAGI 🎶 <br/>
-                    1:05 ━━━━●─────────── 3:36 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    1:52 ━━━━━━━━●─────── 3:25 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 4, 2026, 04:24 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 4, 2026, 05:06 PM</sub>
 </div>
 
 </div>
