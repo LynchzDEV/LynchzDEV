@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27313566b5d477c16b00434ff6e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> usotsuki emily by: sana 🎶 <br/>
-                    1:12 ━━━━●─────────── 3:46 <br/>
+                    2:56 ━━━━━━━━━━●───── 4:11 <br/>
                     Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 9, 2026, 06:39 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 9, 2026, 06:58 AM</sub>
 </div>
 
 </div>
