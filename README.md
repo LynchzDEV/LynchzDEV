@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273c0a261fbf75b2c8ec97a9aa9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2731e31e73b97f08adc1026a29c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Anima by: satella 🎶 <br/>
-                    2:47 ━━━━━━━━●─────── 4:49 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Backstabber by: rionos 🎶 <br/>
+                    3:04 ━━━━━━━━━━━━━●── 3:29 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 10, 2026, 06:08 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 10, 2026, 06:51 AM</sub>
 </div>
 
 </div>
