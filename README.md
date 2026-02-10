@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273eb517936e937a779c1ec7a62" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Boukyaku no tsubasa by: Haruka Shimotsuki 🎶 <br/>
-                    1:22 ━━━━●─────────── 4:09 <br/>
+                    3:16 ━━━━━━━━━━●───── 4:47 <br/>
                     Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 10, 2026, 08:48 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 10, 2026, 09:47 PM</sub>
 </div>
 
 </div>
