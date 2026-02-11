@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273fa045413c37d4af5ff65e0d6" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> STRAIGHT BET by: MYTH & ROID 🎶 <br/>
-                    1:23 ━━━━━●────────── 3:31 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    0:44 ━━●───────────── 4:55 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 12, 2026, 02:43 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 12, 2026, 03:21 AM</sub>
 </div>
 
 </div>
