@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273e64667b70edf1233bbc498b3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Born To Be Blue by: Tommy Flanagan Trio 🎶 <br/>
-                    3:25 ━━━━━━━━━━━━━━●─ 3:28 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Velvet Moon by: Tommy Flanagan Trio 🎶 <br/>
+                    1:36 ━━━━━●────────── 4:12 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 14, 2026, 09:39 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 14, 2026, 09:58 PM</sub>
 </div>
 
 </div>
