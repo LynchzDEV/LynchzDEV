@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273622281583f5aeb3e23b4b026" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> All The Things You Are by: Hampton Hawes Trio 🎶 <br/>
-                    3:03 ━━━━━━━━━━━━━━━● 3:00 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> I Got Rhythm by: Hampton Hawes Trio 🎶 <br/>
+                    1:03 ━━━━●─────────── 3:25 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 15, 2026, 01:48 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 15, 2026, 02:13 AM</sub>
 </div>
 
 </div>
