@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2732083c3c9a5ad6186a8bb9de9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273d416bc300a7881e4975826cd" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Coral by: Floating Basket 🎶 <br/>
-                    1:52 ━━━━━●────────── 4:56 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> downstream by: Beats on 21st 🎶 <br/>
+                    0:45 ━━●───────────── 4:09 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 16, 2026, 03:27 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 16, 2026, 03:51 AM</sub>
 </div>
 
 </div>
