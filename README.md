@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e3beff0af1dba19d65172b17" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Buona Sera - Ciao Ciao by: Mauro 🎶 <br/>
-                    1:29 ━━━━●─────────── 4:33 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    0:42 ━━●───────────── 4:58 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 17, 2026, 04:50 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 17, 2026, 05:39 PM</sub>
 </div>
 
 </div>
