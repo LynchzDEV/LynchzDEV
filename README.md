@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b27339dd6bc243d4c1bc9e641a66" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> reaching by: Sleepermane 🎶 <br/>
-                    3:12 ━━━━━━━━━━●───── 4:41 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> faeries by: Sleepermane 🎶 <br/>
+                    0:49 ━━━●──────────── 3:51 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 18, 2026, 06:46 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 18, 2026, 07:02 AM</sub>
 </div>
 
 </div>
