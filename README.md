@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273e0ed8e10e32655eec875af0c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2730ebaeab40e05ec431939d39e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Deep sea person by: NUUAMM 🎶 <br/>
-                    2:34 ━━━━━━━━━━●───── 3:50 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 新秋名果 by: Saho Terao 🎶 <br/>
+                    0:53 ━━━●──────────── 3:38 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 19, 2026, 01:28 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 19, 2026, 02:29 AM</sub>
 </div>
 
 </div>
