@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e5222dc43d51ecb19140a120" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> いま、それこそが by: KUKIKODAN 🎶 <br/>
-                    1:43 ━━━━━●────────── 4:34 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    1:50 ━━━━━━●───────── 4:19 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 20, 2026, 08:57 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 20, 2026, 09:39 PM</sub>
 </div>
 
 </div>
