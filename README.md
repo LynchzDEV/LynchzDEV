@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d20d46fd506ebf875328355d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 足りない by: MIMiNARI 🎶 <br/>
-                    3:17 ━━━━━━━━━━━●──── 4:20 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    0:47 ━━●───────────── 4:01 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 24, 2026, 04:05 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 24, 2026, 05:05 PM</sub>
 </div>
 
 </div>
