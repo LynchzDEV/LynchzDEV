@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2732f7cc1d44fc9b2ee9a5463de" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> S.S.S. by: CHIAKI SATO 🎶 <br/>
-                    1:36 ━━━━━━●───────── 3:42 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    2:00 ━━━━━━━━━●────── 3:12 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 26, 2026, 12:46 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 26, 2026, 01:40 PM</sub>
 </div>
 
 </div>
