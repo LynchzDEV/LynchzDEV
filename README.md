@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27385147fb979473cc00d658a48" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273d7d71b3f4f352edd0f8bb631" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ฉันเป็นของเธอ by: Only Monday 🎶 <br/>
-                    2:47 ━━━━━━━━━━━━●─── 3:26 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> METAMORPHOSIS 3 by: INTERWORLD 🎶 <br/>
+                    1:23 ━━━━━●────────── 3:37 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 27, 2026, 04:22 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 27, 2026, 05:04 PM</sub>
 </div>
 
 </div>
