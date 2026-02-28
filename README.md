@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2735c3077dce12985eac4b84bcb" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> OUT OF FRAME by: Hoshimachi Suisei 🎶 <br/>
-                    0:56 ━━●───────────── 4:50 <br/>
+                    1:54 ━━━━━━●───────── 4:14 <br/>
                     Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 28, 2026, 05:57 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 28, 2026, 06:21 PM</sub>
 </div>
 
 </div>
