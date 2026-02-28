@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273029366026a258e174d37f821" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ベイビーダンス by: さくらみこ 🎶 <br/>
-                    1:33 ━━━━●─────────── 4:51 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    2:16 ━━━━━━━━●─────── 4:08 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 28, 2026, 10:22 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Feb 28, 2026, 10:42 PM</sub>
 </div>
 
 </div>
