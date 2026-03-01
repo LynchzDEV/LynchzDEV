@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273a08b9417084a0d13db63bea1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273164c6abcca3a8a18e210eee7" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> シュガーラッシュ by: さくらみこ 🎶 <br/>
-                    2:26 ━━━━━━━━━━━●──── 3:04 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Midnight Mission by: Midnight Grand Orchestra 🎶 <br/>
+                    0:36 ━━●───────────── 3:43 <br/>
                     Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 2, 2026, 12:57 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 2, 2026, 01:36 AM</sub>
 </div>
 
 </div>
