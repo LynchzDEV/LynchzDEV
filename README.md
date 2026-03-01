@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273f9d682fd7950841e56d72e39" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273f724e5bdf4ae3e50082c2403" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ユグドラシル by: 不知火フレア 🎶 <br/>
-                    1:05 ━━━━●─────────── 3:43 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Je t'aime。 by: Hoshimachi Suisei 🎶 <br/>
+                    3:03 ━━━━━━━━━━━━━━━● 3:00 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 1, 2026, 09:44 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 1, 2026, 09:58 PM</sub>
 </div>
 
 </div>
