@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273b89086660df8a0182af2b2c1" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> My song by: 角巻わため 🎶 <br/>
-                    0:34 ━━●───────────── 4:05 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    0:52 ━━━●──────────── 4:12 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 2, 2026, 04:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 2, 2026, 05:39 PM</sub>
 </div>
 
 </div>
