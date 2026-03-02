@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273765661c2898ec32d43d9714f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> melting by: 百鬼あやめ 🎶 <br/>
-                    0:40 ━━●───────────── 4:29 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    2:11 ━━━━━━━━━●────── 3:25 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 2, 2026, 07:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 2, 2026, 08:47 PM</sub>
 </div>
 
 </div>
