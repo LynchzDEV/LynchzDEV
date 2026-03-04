@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2737655c4193e4684dc4612cb5f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> oui - Jersey Club by: KAI BEATS 🎶 <br/>
-                    1:40 ━━━━━●────────── 4:54 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    3:01 ━━━━━━━━━━━━━━●─ 3:12 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 4, 2026, 07:00 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 4, 2026, 08:19 PM</sub>
 </div>
 
 </div>
