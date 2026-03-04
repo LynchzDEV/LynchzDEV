@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273202d97db1cc74e84188ae5ad" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Truth and the Universe by: Keiichi Okabe 🎶 <br/>
-                    1:00 ━━━●──────────── 3:47 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    2:06 ━━━━━━━━━●────── 3:26 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 4, 2026, 09:47 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 4, 2026, 11:22 AM</sub>
 </div>
 
 </div>
