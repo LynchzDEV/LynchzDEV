@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273862eed4c36354d29a404f51b" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273b704cf61049e63a0803c986d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Yumeji no Hana (Instrumental) by: Mitsukiyo 🎶 <br/>
-                    2:45 ━━━━━━━━━●────── 4:30 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Missing Piece by: Marika Takeuchi 🎶 <br/>
+                    0:59 ━━━●──────────── 4:17 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 5, 2026, 05:40 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 5, 2026, 06:14 AM</sub>
 </div>
 
 </div>
