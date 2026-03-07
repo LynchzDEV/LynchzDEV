@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2730bc0abda4b22ee52836e6eac" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 革命道中 - On The Way by: AiNA THE END 🎶 <br/>
-                    1:33 ━━━━━●────────── 4:07 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> だから僕は音楽を辞めた by: ヨルシカ 🎶 <br/>
+                    1:48 ━━━━━━━●──────── 3:28 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 7, 2026, 05:37 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 7, 2026, 05:54 PM</sub>
 </div>
 
 </div>
