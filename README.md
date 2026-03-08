@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273f70bfddba0386c4c3cd374a2" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273acf572d32c519b367b556ea8" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ハシタイロ by: rionos 🎶 <br/>
-                    0:46 ━━●───────────── 4:33 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> The Cruel Angel's Thesis (Neon Genesis Evangelion) by: Steve Aoki 🎶 <br/>
+                    3:06 ━━━━━━━━━━●───── 4:17 <br/>
+                    Volume: ■■■■■■■■ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 8, 2026, 12:15 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 8, 2026, 12:58 PM</sub>
 </div>
 
 </div>
