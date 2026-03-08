@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273fe910682585a207091d63cde" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> チルノのパーフェクトさんすう教室 by: IOSYS 🎶 <br/>
-                    2:06 ━━━━━━━━━━●───── 3:00 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    2:05 ━━━━━━━━━●────── 3:24 <br/>
+                    Volume: ■■■■■□□□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 9, 2026, 12:18 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 9, 2026, 12:43 AM</sub>
 </div>
 
 </div>
