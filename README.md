@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273248810658b6b262cd48772e9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> meteor shower by: Stream Cafe 🎶 <br/>
-                    1:45 ━━━━━●────────── 4:31 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> wishing on a star by: Stream Cafe 🎶 <br/>
+                    1:27 ━━━━━━●───────── 3:13 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 10, 2026, 06:13 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 10, 2026, 06:44 AM</sub>
 </div>
 
 </div>
