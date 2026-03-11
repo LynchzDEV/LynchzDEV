@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27377c339de2168c8b893a64407" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2732eb4d117b70ea7ac2c24e316" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> We're Nobody by: late night drive home 🎶 <br/>
-                    1:46 ━━━━━●────────── 4:40 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Telephones by: Vacations 🎶 <br/>
+                    3:26 ━━━━━━━━━━━━━━━● 3:26 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 11, 2026, 11:59 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 12, 2026, 12:52 AM</sub>
 </div>
 
 </div>
