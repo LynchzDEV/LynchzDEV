@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273fa240051eaaa104157646e90" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> this is what winter feels like by: JVKE 🎶 <br/>
-                    2:05 ━━━━━━━●──────── 4:01 <br/>
+                    1:26 ━━━━●─────────── 4:38 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 11, 2026, 10:41 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 11, 2026, 12:03 PM</sub>
 </div>
 
 </div>
