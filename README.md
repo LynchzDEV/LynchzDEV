@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27350c83c135cedb19a69581cb9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Candy Dash by: Ujico* 🎶 <br/>
-                    2:37 ━━━━━━━━━━━━●─── 3:07 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:36 ━━━━━━━━━━━━●─── 3:08 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 14, 2026, 05:02 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 14, 2026, 05:40 AM</sub>
 </div>
 
 </div>
