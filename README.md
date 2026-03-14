@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273960d6a1107245b7b70725b9f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273fda59b9def4055642220404d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Summer of Farewells - From Up On Poppy Hill (Vocals by Aoi Teshima) by: Satoshi Takebe 🎶 <br/>
-                    0:58 ━━━━●─────────── 3:22 <br/>
-                    Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Main Theme by: Katsu Hoshi 🎶 <br/>
+                    3:21 ━━━━━━━━━━━━━●── 3:40 <br/>
+                    Volume: ■■■■■■■■ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 14, 2026, 11:00 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 14, 2026, 11:46 PM</sub>
 </div>
 
 </div>
