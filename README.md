@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27312fb3f7b5f0f577b09270edb" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> signal flare by: 森羅万象 🎶 <br/>
-                    1:35 ━━━━●─────────── 4:49 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    0:30 ━●────────────── 4:04 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 17, 2026, 05:29 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 17, 2026, 06:24 PM</sub>
 </div>
 
 </div>
