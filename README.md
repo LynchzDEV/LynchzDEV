@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b273fd948e98a2fba6e8b22cb873" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Another Day in Mondstadt by: Yu-Peng Chen 🎶 <br/>
-                    1:47 ━━━━━●────────── 4:28 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Whispering Plain by: Yu-Peng Chen 🎶 <br/>
+                    2:57 ━━━━━━━━━━━━━━●─ 3:01 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 20, 2026, 02:53 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 20, 2026, 03:31 AM</sub>
 </div>
 
 </div>
