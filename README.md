@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2734fc0e1125299779af98008e6" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273fd948e98a2fba6e8b22cb873" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Windtrace break by: Genshin Vibe 🎶 <br/>
-                    2:20 ━━━━━━━●──────── 4:37 <br/>
-                    Volume: ■■■□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Say My Name by: Yu-Peng Chen 🎶 <br/>
+                    2:59 ━━━━━━━━━●────── 4:35 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 19, 2026, 06:57 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 19, 2026, 09:24 AM</sub>
 </div>
 
 </div>
