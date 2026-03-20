@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e51134d3ca2b6a66b371089f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 夢の続き by: Konomi Suzuki 🎶 <br/>
-                    3:19 ━━━━━━━━━━━━●─── 3:50 <br/>
+                    2:28 ━━━━━━━━━━●───── 3:30 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 20, 2026, 01:35 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 20, 2026, 02:31 PM</sub>
 </div>
 
 </div>
