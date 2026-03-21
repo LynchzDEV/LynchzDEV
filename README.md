@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27383d2e18e5fc3692561b46bf6" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Yakusoku No Primula (feat. VALSHE) by: Mirai Kodai Orchestra 🎶 <br/>
-                    2:54 ━━━━━━━━━●────── 4:24 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    3:04 ━━━━━━━━━●────── 4:45 <br/>
+                    Volume: ■■■■■■□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 22, 2026, 01:29 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 22, 2026, 02:00 AM</sub>
 </div>
 
 </div>
