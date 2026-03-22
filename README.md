@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273eb5bbddd7dad7338e7d0f403" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> intersolid by: Toko Miura 🎶 <br/>
-                    3:26 ━━━━━━━━━━●───── 4:55 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    2:37 ━━━━━━━━━●────── 4:13 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 22, 2026, 09:51 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 22, 2026, 11:48 AM</sub>
 </div>
 
 </div>
