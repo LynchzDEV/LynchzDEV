@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27398b1c6c0d05f8841f08a9eca" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Asleep Among Endives by: Ichiko Aoba 🎶 <br/>
-                    1:56 ━━━━━●────────── 4:59 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    1:58 ━━━━━━━━●─────── 3:35 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 23, 2026, 12:02 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 23, 2026, 12:36 AM</sub>
 </div>
 
 </div>
