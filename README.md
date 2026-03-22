@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2738267c14989494c529cd9e6da" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Blue Dragon by: Seiryu 🎶 <br/>
-                    1:52 ━━━━━━━●──────── 3:37 <br/>
+                    3:09 ━━━━━━━━━━━━━●── 3:32 <br/>
                     Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 22, 2026, 09:51 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 22, 2026, 10:20 PM</sub>
 </div>
 
 </div>
