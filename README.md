@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2739605e23525ae290e77ebe6da" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 花がら by: tayori 🎶 <br/>
-                    2:36 ━━━━━━━━●─────── 4:44 <br/>
+                    1:23 ━━━━━━●───────── 3:06 <br/>
                     Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 23, 2026, 02:03 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 23, 2026, 03:06 PM</sub>
 </div>
 
 </div>
