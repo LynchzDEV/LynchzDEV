@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2731d57c410b71a26281860704a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Paper Moon by: Minuano 🎶 <br/>
-                    3:08 ━━━━━━━━━━━━━●── 3:24 <br/>
+                    2:22 ━━━━━━━●──────── 4:55 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 24, 2026, 08:50 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 24, 2026, 11:13 AM</sub>
 </div>
 
 </div>
