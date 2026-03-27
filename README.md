@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27383f388876dee9138b20c4e31" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> BALLOON by: 奇幻セカイ 🎶 <br/>
-                    2:55 ━━━━━━━━●─────── 4:59 <br/>
+                    0:54 ━━━●──────────── 4:05 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 28, 2026, 12:06 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 28, 2026, 01:00 AM</sub>
 </div>
 
 </div>
