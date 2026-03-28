@@ -32,9 +32,9 @@
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
                   <img src="https://i.scdn.co/image/ab67616d0000b27313832cc69a78c53b18a8bc10" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Haunted by: Laufey 🎶 <br/>
-                    0:34 ━●────────────── 4:29 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Nocturne (Interlude) by: Laufey 🎶 <br/>
+                    1:14 ━━━━●─────────── 4:34 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 29, 2026, 02:47 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 29, 2026, 03:01 AM</sub>
 </div>
 
 </div>
