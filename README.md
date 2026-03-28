@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273211e4fbdc8ee313fa598e87f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Love Like You (feat. Rebecca Sugar) - End Credits by: Steven Universe 🎶 <br/>
-                    2:40 ━━━━━━━━●─────── 4:49 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    0:38 ━━●───────────── 4:15 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 28, 2026, 12:11 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 28, 2026, 01:12 PM</sub>
 </div>
 
 </div>
