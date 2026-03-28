@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734c1585421f173396e57f61ad" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> turn around by: 高城みよ 🎶 <br/>
-                    0:49 ━━━●──────────── 3:11 <br/>
+                    1:57 ━━━━━━●───────── 4:13 <br/>
                     Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 28, 2026, 06:54 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 28, 2026, 07:42 PM</sub>
 </div>
 
 </div>
