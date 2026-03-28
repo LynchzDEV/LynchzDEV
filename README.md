@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2736362b3835bf60d00485f267e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> A Cautionary Tale by: Laufey 🎶 <br/>
-                    3:03 ━━━━━━━━━━━━━━●─ 3:05 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Cuckoo Ballet - Interlude by: Laufey 🎶 <br/>
+                    2:46 ━━━━━━━━●─────── 4:48 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 28, 2026, 11:58 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 29, 2026, 12:35 AM</sub>
 </div>
 
 </div>
