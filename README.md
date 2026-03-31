@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273b599ff4de075dd7cdc1fe676" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2733b385a9c983fea18109ab264" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Orange Sea (prod. Tokimeki Records) by: JU!iE 🎶 <br/>
-                    2:07 ━━━━━━●───────── 4:59 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 贅沢 by: ぎがもえか 🎶 <br/>
+                    2:11 ━━━━━━━━━●────── 3:30 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 1, 2026, 05:49 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 1, 2026, 06:19 AM</sub>
 </div>
 
 </div>
