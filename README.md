@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273741361f5aba948d5d3d6410d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> setsu by: Meadow 🎶 <br/>
-                    1:47 ━━━━━●────────── 4:56 <br/>
+                    3:29 ━━━━━━━━━━●───── 4:56 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 31, 2026, 10:26 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Mar 31, 2026, 12:23 PM</sub>
 </div>
 
 </div>
