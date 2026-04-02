@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2733235b8176c379e609e7cad7d" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Black Dilemma by: MOTTO MUSIC 🎶 <br/>
-                    1:43 ━━━━━━●───────── 3:47 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:27 ━━━━━━━●──────── 3:03 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 2, 2026, 02:52 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 2, 2026, 03:50 PM</sub>
 </div>
 
 </div>
