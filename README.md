@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2731dac66f85adb708e5b069701" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Lament Rain - Forlorn Long ver. by: 打打だいず 🎶 <br/>
-                    3:23 ━━━━━━━━━━●───── 4:37 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    3:13 ━━━━━━━━━━●───── 4:29 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 3, 2026, 10:35 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 3, 2026, 11:05 PM</sub>
 </div>
 
 </div>
