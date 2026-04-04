@@ -33,9 +33,9 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273c3aa55308a2a3cb54ca36e46" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> I/O by: kamome sano 🎶 <br/>
-                    2:26 ━━━━━━━━━━━●──── 3:07 <br/>
-                    Volume: ■■■□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    2:45 ━━━━━━━━●─────── 4:54 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 5, 2026, 12:55 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 5, 2026, 01:34 AM</sub>
 </div>
 
 </div>
