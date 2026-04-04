@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a224345c5d052e4de63bbaa3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Chiba by: jidarakuda 🎶 <br/>
-                    2:24 ━━━━━━━━━●────── 3:39 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    3:25 ━━━━━━━━━━━━●─── 4:07 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 4, 2026, 09:01 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 4, 2026, 09:48 PM</sub>
 </div>
 
 </div>
