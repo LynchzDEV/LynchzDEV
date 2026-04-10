@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27319c93ba2893c8315f812ff69" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2738a78de0058c7ad2e72308d94" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ふたりの春 by: Toji 🎶 <br/>
-                    2:55 ━━━━━━━━━●────── 4:45 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> 流れる星のうた by: Toji 🎶 <br/>
+                    1:45 ━━━━━━━━●─────── 3:16 <br/>
+                    Volume: ■■■■■□□□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 11, 2026, 02:52 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 11, 2026, 03:29 AM</sub>
 </div>
 
 </div>
