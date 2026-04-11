@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273f049f5c0135c1d77045eea7a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> อกหัก by: Bodyslam 🎶 <br/>
-                    0:56 ━━━●──────────── 3:50 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    0:45 ━━●───────────── 4:54 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 11, 2026, 10:05 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 11, 2026, 10:45 PM</sub>
 </div>
 
 </div>
