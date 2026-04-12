@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27384c1dd28a1fc3d9c3abd9377" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27329f649edf51edde6fdf01a09" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> TOGE TOGE - Sped Up by: MON7A 🎶 <br/>
-                    1:32 ━━━━━━●───────── 3:49 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> セレナーデ by: natori 🎶 <br/>
+                    3:04 ━━━━━━━━━●────── 4:58 <br/>
                     Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 12, 2026, 06:43 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 12, 2026, 08:07 AM</sub>
 </div>
 
 </div>
