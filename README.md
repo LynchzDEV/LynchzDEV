@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273e2814b46814b16893934d8c3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 1000 days of moments by: 乃紫 🎶 <br/>
-                    2:16 ━━━━━━━●──────── 4:46 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    1:41 ━━━━━━●───────── 4:12 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 13, 2026, 12:29 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 13, 2026, 01:03 AM</sub>
 </div>
 
 </div>
