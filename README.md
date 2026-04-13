@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273ce86108c7bc6e1c464ed7ea0" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> LOUCURA LETAL by: Nakama 🎶 <br/>
-                    0:47 ━━━●──────────── 3:06 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    1:16 ━━━━━━●───────── 3:04 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 13, 2026, 11:58 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 14, 2026, 01:05 AM</sub>
 </div>
 
 </div>
