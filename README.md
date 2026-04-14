@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273743b3dbf6eeb9f8343cb2c1c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> น้ำลาย by: Txrbo 🎶 <br/>
-                    2:01 ━━━━━━●───────── 4:43 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    1:24 ━━━━●─────────── 4:37 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 15, 2026, 12:36 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 15, 2026, 01:45 AM</sub>
 </div>
 
 </div>
