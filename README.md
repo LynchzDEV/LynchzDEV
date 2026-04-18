@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27316899a8aef8f7fe0ffb90481" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> World is Mine - Kaguya&Yachiyo Runami ver. - CPK! Remix by: ryo (supercell) 🎶 <br/>
-                    1:10 ━━━━●─────────── 4:20 <br/>
+                    2:48 ━━━━━━━━━━●───── 3:57 <br/>
                     Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 18, 2026, 04:29 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 18, 2026, 05:09 PM</sub>
 </div>
 
 </div>
