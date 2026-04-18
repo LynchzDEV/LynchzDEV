@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273106b6c495ae458b7d920d35f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2731d57c410b71a26281860704a" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> とげぬき by: 浮 🎶 <br/>
-                    2:10 ━━━━━━●───────── 4:41 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Paper Moon by: Minuano 🎶 <br/>
+                    2:26 ━━━━━━━━━━━━●─── 3:01 <br/>
                     Volume: ■■■■■■■■ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 19, 2026, 02:49 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 19, 2026, 03:19 AM</sub>
 </div>
 
 </div>
