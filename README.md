@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2733589261f2dc5bd13d2aba906" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> MONTAGEM PIKA by: MXRCVRY 🎶 <br/>
-                    2:44 ━━━━━━━━●─────── 4:47 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    1:05 ━━━━●─────────── 3:22 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 19, 2026, 03:12 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 19, 2026, 04:07 PM</sub>
 </div>
 
 </div>
