@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2733c6b4aa09f29a9ca2e0502fc" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> MATSU YO by: DRKZN 🎶 <br/>
-                    3:17 ━━━━━━━━━━━━━━●─ 3:18 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:08 ━━━━━━━━●─────── 4:00 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 19, 2026, 07:59 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 19, 2026, 09:01 PM</sub>
 </div>
 
 </div>
