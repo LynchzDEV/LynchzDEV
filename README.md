@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2738c4c0b4d5784ae4af4d67519" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> I loved you by: esoragoto 🎶 <br/>
-                    1:40 ━━━━━━━●──────── 3:33 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    0:43 ━━━●──────────── 3:08 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 19, 2026, 11:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 20, 2026, 12:32 AM</sub>
 </div>
 
 </div>
