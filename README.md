@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27336642d058e6f5e07fe999191" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> MONTAGEM HONGBAOSHI by: WUYS 🎶 <br/>
-                    2:05 ━━━━━━━●──────── 4:20 <br/>
+                    0:39 ━━●───────────── 4:09 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 20, 2026, 07:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 20, 2026, 09:44 PM</sub>
 </div>
 
 </div>
