@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273319bea8e3b384bfca6b60aec" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Wasureji no Kotonoha (feat. Kiwako Ashimine) [2022] by: Mirai Kodai Orchestra 🎶 <br/>
-                    3:16 ━━━━━━━━━━━━━●── 3:31 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:55 ━━●───────────── 4:56 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 20, 2026, 01:31 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 20, 2026, 03:37 PM</sub>
 </div>
 
 </div>
