@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2735227c6dfe585d642ce5f50e8" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 弥渡山歌 (Midu Echoing) - Super Slowed by: YANGYINYUE 🎶 <br/>
-                    0:34 ━━●───────────── 3:50 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    0:55 ━━━●──────────── 4:21 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 23, 2026, 04:32 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 23, 2026, 05:26 AM</sub>
 </div>
 
 </div>
