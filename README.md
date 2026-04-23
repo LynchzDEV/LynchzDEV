@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273bf9de5429c2c9cda2f4f50a3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Hoshi Ni Naru (feat. isui) by: Islet 🎶 <br/>
-                    2:20 ━━━━━━━━━━●───── 3:17 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    3:23 ━━━━━━━━━━━●──── 4:31 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 23, 2026, 04:13 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 23, 2026, 05:48 PM</sub>
 </div>
 
 </div>
