@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273554c9b7828d29d47d9f29a94" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Monoomoi by: 藍空と月 🎶 <br/>
-                    3:25 ━━━━━━━━━━━●──── 4:31 <br/>
+                    0:38 ━●────────────── 4:52 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 24, 2026, 06:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 24, 2026, 07:46 PM</sub>
 </div>
 
 </div>
