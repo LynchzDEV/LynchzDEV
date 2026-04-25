@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27370942f5db7469afff3441f76" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> kairikou by: soleil de minuit 🎶 <br/>
-                    2:17 ━━━━━━━━━●────── 3:37 <br/>
+                    2:25 ━━━━━━━━━━━●──── 3:04 <br/>
                     Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 26, 2026, 12:54 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 26, 2026, 01:41 AM</sub>
 </div>
 
 </div>
