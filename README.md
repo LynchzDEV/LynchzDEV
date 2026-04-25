@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2730bc434caf679768a8b9c0cd3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> อู้บ่จ้าง by: Sukrit Wisetkaew 🎶 <br/>
-                    2:34 ━━━━━━━━●─────── 4:35 <br/>
-                    Volume: ■■■■■□□□ <br/>
+                    3:00 ━━━━━━━━━━━━●─── 3:28 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 25, 2026, 05:27 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 25, 2026, 06:11 PM</sub>
 </div>
 
 </div>
