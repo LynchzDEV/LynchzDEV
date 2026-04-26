@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273d2b5b7e1a48e760346a3d721" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Singularity by: ETIA. 🎶 <br/>
-                    2:37 ━━━━━━━━━━●───── 3:49 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    1:43 ━━━━━━━━●─────── 3:07 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 26, 2026, 10:52 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 26, 2026, 01:03 PM</sub>
 </div>
 
 </div>
