@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2730f9c9fe2af8cee73ae598b34" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273c73c5850e2237a79e2e82bbf" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Leaving All Behind (overcast) by: NOMA 🎶 <br/>
-                    3:01 ━━━━━━━━━━━●──── 3:53 <br/>
-                    Volume: ■■□□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ouroboros -re;birth- by: Cranky 🎶 <br/>
+                    0:34 ━●────────────── 4:42 <br/>
+                    Volume: ■■■■■■■□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 26, 2026, 07:01 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 26, 2026, 08:37 PM</sub>
 </div>
 
 </div>
