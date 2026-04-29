@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2731a69c49bf7933be6c1585fa2" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Hinoao by: Sennzai 🎶 <br/>
-                    1:18 ━━━━━●────────── 3:32 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    1:36 ━━━━━●────────── 4:34 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 29, 2026, 07:55 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Apr 29, 2026, 10:08 PM</sub>
 </div>
 
 </div>
