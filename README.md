@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2737332deb0d90f697607c1e33e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27323e498c04c74bdcbcd842b7f" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> BAKENOHANA by: NAKISO 🎶 <br/>
-                    1:28 ━━━━━━●───────── 3:19 <br/>
-                    Volume: ■□□□□□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Intergalactic Bound (feat. Hatsune Miku) by: Yunosuke 🎶 <br/>
+                    2:47 ━━━━━━━━━━━●──── 3:34 <br/>
+                    Volume: ■■■■■□□□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 1, 2026, 05:11 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 1, 2026, 06:11 AM</sub>
 </div>
 
 </div>
