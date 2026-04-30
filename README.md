@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2737332deb0d90f697607c1e33e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> BAKENOHANA by: NAKISO 🎶 <br/>
-                    0:52 ━━━●──────────── 4:09 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    0:47 ━━●───────────── 4:02 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 1, 2026, 12:23 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 1, 2026, 01:50 AM</sub>
 </div>
 
 </div>
