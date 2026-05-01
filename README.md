@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2733f478c61f9f868d77098b5fa" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27309d9595fa2a2f87d439b02dc" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 百回目のキス by: supercell 🎶 <br/>
-                    1:14 ━━━●──────────── 4:50 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Scarborough Fair by: 山田タマル 🎶 <br/>
+                    2:01 ━━━━━━━●──────── 3:53 <br/>
                     Volume: ■■■■■■■■ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 2, 2026, 12:54 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 2, 2026, 02:04 AM</sub>
 </div>
 
 </div>
