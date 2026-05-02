@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27316ac157e4bbccbc6425ef7be" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> とけない by: MIMiNARI 🎶 <br/>
-                    2:20 ━━━━━━━━●─────── 4:14 <br/>
+                    2:42 ━━━━━━━━●─────── 4:32 <br/>
                     Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 2, 2026, 05:36 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 2, 2026, 06:28 PM</sub>
 </div>
 
 </div>
