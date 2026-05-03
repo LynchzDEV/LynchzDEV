@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Mr. Loverman by: Ricky Montgomery 🎶 <br/>
-                    1:32 ━━━━━●────────── 3:59 <br/>
+                    3:13 ━━━━━━━━━━━━●─── 3:58 <br/>
                     Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 3, 2026, 08:03 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 3, 2026, 09:13 PM</sub>
 </div>
 
 </div>
