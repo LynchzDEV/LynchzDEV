@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273309ae95ef92cb8b068e7ce52" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273ce7df176c25b0872d97990d3" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> I Fall In Love Too Easily by: Chet Baker 🎶 <br/>
-                    2:10 ━━━━━━━●──────── 4:35 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Dream A Little Dream Of Me by: Ella Fitzgerald 🎶 <br/>
+                    1:50 ━━━━━●────────── 4:38 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 5, 2026, 04:17 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 5, 2026, 05:15 AM</sub>
 </div>
 
 </div>
