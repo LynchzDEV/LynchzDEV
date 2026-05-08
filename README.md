@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a54499d7ba4e9afeea91df86" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Paint The Town Red by: Doja Cat 🎶 <br/>
-                    2:58 ━━━━━━━━━━━━━●── 3:23 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    1:40 ━━━━━●────────── 4:37 <br/>
+                    Volume: ■■■■□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 9, 2026, 01:43 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 9, 2026, 02:58 AM</sub>
 </div>
 
 </div>
