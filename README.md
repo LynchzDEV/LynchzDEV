@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b2732e05fd2e7fa984c228bdd637" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> ผิดที่ไว้ใจ by: Silly Fools 🎶 <br/>
-                    3:05 ━━━━━━━━━━●───── 4:18 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Last Summer Whisper by: Anri 🎶 <br/>
+                    3:01 ━━━━━━━━━━●───── 4:22 <br/>
                     Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 10, 2026, 08:50 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 10, 2026, 09:47 PM</sub>
 </div>
 
 </div>
