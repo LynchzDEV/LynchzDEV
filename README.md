@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a20f06907a86a76d65c6cd37" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> イキツクシ by: DADARAY 🎶 <br/>
-                    2:22 ━━━━━━━●──────── 4:40 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    1:04 ━━━●──────────── 4:05 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 14, 2026, 02:52 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 14, 2026, 05:10 PM</sub>
 </div>
 
 </div>
