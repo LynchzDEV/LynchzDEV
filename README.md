@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273865c5b90ef15d52c094f8d1e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Dinner Bell by: Harumakigohan 🎶 <br/>
-                    0:37 ━━●───────────── 4:25 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:52 ━━━━━━━━━●────── 4:34 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 17, 2026, 06:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 17, 2026, 07:41 PM</sub>
 </div>
 
 </div>
