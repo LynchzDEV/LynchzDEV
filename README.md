@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273ba5270d144159dcc3dd7fa45" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ダブルラリアット by: Agoaniki 🎶 <br/>
-                    0:40 ━━●───────────── 4:57 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:51 ━━●───────────── 4:49 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 22, 2026, 06:32 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 22, 2026, 08:57 PM</sub>
 </div>
 
 </div>
