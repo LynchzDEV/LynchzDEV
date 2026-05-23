@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273a9229c8d0a842e9a3ccde453" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Fiddle Player by: Kasír 🎶 <br/>
-                    1:50 ━━━━━━●───────── 4:31 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Seven (feat. Latto) (Explicit Ver.) by: Jung Kook 🎶 <br/>
+                    0:34 ━●────────────── 4:33 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 23, 2026, 02:38 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 23, 2026, 04:23 PM</sub>
 </div>
 
 </div>
