@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2739cf9efa46a12fda63e0c8abe" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Ring of Fortune by: 佐々木恵梨 🎶 <br/>
-                    2:34 ━━━━━━━━━━━●──── 3:15 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    1:34 ━━━━━━━●──────── 3:08 <br/>
+                    Volume: ■■■■■■■□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 25, 2026, 01:22 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 25, 2026, 05:54 PM</sub>
 </div>
 
 </div>
