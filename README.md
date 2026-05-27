@@ -30,10 +30,10 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273c6e2e40ce5a2d90fbc24a1a9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2738d0c28b38a13d42ee9ae41f2" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> sayonara frequency by: HACHI 🎶 <br/>
-                    2:18 ━━━━━━━●──────── 4:24 <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Stroll by: Tota 🎶 <br/>
+                    0:54 ━━●───────────── 4:43 <br/>
                     Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 28, 2026, 04:18 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: May 28, 2026, 05:52 AM</sub>
 </div>
 
 </div>
