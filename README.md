@@ -33,7 +33,7 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2730f2f45d05fee849f6ba2112b" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Highway Radio by: SWALLOW 🎶 <br/>
-                    0:44 ━━●───────────── 4:45 <br/>
+                    1:39 ━━━━━━━━●─────── 3:05 <br/>
                     Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 1, 2026, 07:31 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 2, 2026, 01:24 AM</sub>
 </div>
 
 </div>
