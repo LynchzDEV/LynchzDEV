@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273527aa1e434467779f646bb74" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> ヒカリの方へ by: PSYQUI 🎶 <br/>
-                    1:03 ━━━●──────────── 4:10 <br/>
-                    Volume: ■■■■■■□□ <br/>
+                    2:51 ━━━━━━━━━━━━●─── 3:18 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 4, 2026, 03:25 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 4, 2026, 05:35 AM</sub>
 </div>
 
 </div>
