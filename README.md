@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273385cf2d2b19c3c3529269ddd" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27369526bf8fe67baeb2caed02e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> After You by: Yuka Nagase 🎶 <br/>
-                    1:29 ━━━━●─────────── 4:53 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Planetary Linea by: Yuka Nagase 🎶 <br/>
+                    1:59 ━━━━━━●───────── 4:42 <br/>
+                    Volume: ■■■□□□□□ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 8, 2026, 03:14 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 8, 2026, 04:37 AM</sub>
 </div>
 
 </div>
