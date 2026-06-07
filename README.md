@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273fc66605f96c253c4e85e8ab9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Serene Garden by: MOTTO MUSIC 🎶 <br/>
-                    2:59 ━━━━━━━━━━━●──── 4:00 <br/>
-                    Volume: ■■■■□□□□ <br/>
+                    1:59 ━━━━━━━━━●────── 3:01 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 7, 2026, 06:28 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 7, 2026, 08:04 PM</sub>
 </div>
 
 </div>
