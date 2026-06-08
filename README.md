@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27316ac157e4bbccbc6425ef7be" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273732782dd532055cf304e4233" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> インスタント・ラヴ by: MIMiNARI 🎶 <br/>
-                    3:10 ━━━━━━━━━━━━━━●─ 3:14 <br/>
-                    Volume: ■■■□□□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Tsuyugasumi Tokutei tyousa kuiki (feat. Nurse Robot_Type T) by: tosho_aTe 🎶 <br/>
+                    3:11 ━━━━━━━━━━━━●─── 3:56 <br/>
+                    Volume: ■■□□□□□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 9, 2026, 05:44 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 9, 2026, 06:51 AM</sub>
 </div>
 
 </div>
