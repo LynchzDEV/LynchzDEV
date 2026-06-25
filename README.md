@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273240c5363cea7bd9bed017efe" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2734864e7c9f8e1a8454870d973" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> Still Us by: Simber 🎶 <br/>
-                    1:53 ━━━━━━━━━●────── 3:04 <br/>
-                    Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ⏸ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> as the dust settles by: nest. 🎶 <br/>
+                    3:13 ━━━━━━━━━━━━━●── 3:29 <br/>
+                    Volume: ■■■■□□□□ <br/>
+                    <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 25, 2026, 06:40 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 25, 2026, 08:35 AM</sub>
 </div>
 
 </div>
