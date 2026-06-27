@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b27359b84d5c45eb0b84d67639d9" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Looking Glass by: reysi 🎶 <br/>
-                    2:25 ━━━━━━━━━●────── 3:55 <br/>
-                    Volume: ■■■□□□□□ <br/>
+                    0:52 ━━━●──────────── 4:04 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 27, 2026, 06:13 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 27, 2026, 07:43 PM</sub>
 </div>
 
 </div>
