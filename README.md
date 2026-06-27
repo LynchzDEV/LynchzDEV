@@ -30,11 +30,11 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27327a8506ca34264969db9af59" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b273c36284a325433334737aea13" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> You're the King by: Trylexz 🎶 <br/>
-                    2:30 ━━━━━━━━━━●───── 3:25 <br/>
-                    Volume: ■■■■■■■□ <br/>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Thoughts of a Teenage Boy by: Havnur 🎶 <br/>
+                    1:57 ━━━━━━●───────── 4:17 <br/>
+                    Volume: ■■■■■■■■ <br/>
                     <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 28, 2026, 05:30 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jun 28, 2026, 06:37 AM</sub>
 </div>
 
 </div>
