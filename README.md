@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273cb26d477ff2d37d1ddd449fc" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 孤犬 by: nowisee 🎶 <br/>
-                    1:41 ━━━━━●────────── 4:48 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    3:20 ━━━━━━━━━━━━●─── 4:09 <br/>
+                    Volume: ■□□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 2, 2026, 10:38 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 2, 2026, 01:55 PM</sub>
 </div>
 
 </div>
