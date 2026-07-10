@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b27313566b5d477c16b00434ff6e" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2733c5f75ca9eaea611f7edb355" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> sayonara, teddy bear by: sana 🎶 <br/>
-                    0:59 ━━━━●─────────── 3:39 <br/>
-                    Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Shi ni Yuku Kisetsu no Kimi e by: Jun Maeda 🎶 <br/>
+                    2:57 ━━━━━━━━━━━━━●── 3:14 <br/>
+                    Volume: ■■■■■■■■ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 10, 2026, 02:54 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 10, 2026, 05:48 PM</sub>
 </div>
 
 </div>
