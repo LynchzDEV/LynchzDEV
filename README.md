@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2734aed36b3d5b60ddcfed42353" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> VOID - Nina Iseri, Momoka Kawarag by: TOGENASHI TOGEARI 🎶 <br/>
-                    3:07 ━━━━━━━━━━●───── 4:40 <br/>
-                    Volume: ■■□□□□□□ <br/>
+                    2:44 ━━━━━━━━━━━━●─── 3:25 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 10, 2026, 07:59 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 10, 2026, 10:34 PM</sub>
 </div>
 
 </div>
