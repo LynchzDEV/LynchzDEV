@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b2731b6da489c1cb4c5a301a17fc" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> Let Me Down Slowly (feat. Alessia Cara) by: Alec Benjamin 🎶 <br/>
-                    2:37 ━━━━━━━━●─────── 4:39 <br/>
-                    Volume: ■■■■■■■■ <br/>
+                    2:59 ━━━━━━━━━━●───── 4:07 <br/>
+                    Volume: ■■□□□□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 12, 2026, 10:17 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 12, 2026, 11:14 PM</sub>
 </div>
 
 </div>
