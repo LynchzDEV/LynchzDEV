@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273fffff6baf0cbc520e2014330" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b2734d0babf0c0b49687f0d3f8f6" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> หนึ่งบุปผาต้านสวรรค์ by: Shenyue 🎶 <br/>
-                    1:14 ━━━━●─────────── 4:25 <br/>
-                    Volume: ■■■■■□□□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> ยันจุดสิ้นสุดเวลา by: Arert 🎶 <br/>
+                    1:23 ━━━━━●────────── 3:51 <br/>
+                    Volume: ■■■■■■■□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 14, 2026, 09:29 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 14, 2026, 10:59 PM</sub>
 </div>
 
 </div>
