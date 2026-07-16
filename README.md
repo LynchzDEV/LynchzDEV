@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a8503d056c7d0059f117613c" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> colorful (feat. hotoke) by: higma 🎶 <br/>
-                    3:22 ━━━━━━━━━━━●──── 4:33 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    0:41 ━━●───────────── 3:35 <br/>
+                    Volume: ■■■■■□□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 16, 2026, 07:45 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 16, 2026, 09:46 PM</sub>
 </div>
 
 </div>
