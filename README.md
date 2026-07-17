@@ -33,8 +33,8 @@
                   <img src="https://i.scdn.co/image/ab67616d0000b273a556a47a466bab5952eb8f06" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
                     🎶 <span style="font-weight: bold;">listening to:</span> 織風結 (手遊《陰陽師》繪世花鳥卷 角色日文主題曲) by: 網易陰陽師手遊 🎶 <br/>
-                    3:27 ━━━━━━━━━━━━●─── 4:13 <br/>
-                    Volume: ■□□□□□□□ <br/>
+                    2:56 ━━━━━━━━━●────── 4:26 <br/>
+                    Volume: ■■■■■■□□ <br/>
                     <span>↻      ◁ ▹ ▷     ↺ </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 17, 2026, 10:01 PM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 17, 2026, 11:22 PM</sub>
 </div>
 
 </div>
