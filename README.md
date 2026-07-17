@@ -30,12 +30,12 @@
             <div style="background: #181818; border: 1px solid #282828; border-radius: 8px; padding: 16px; min-width: 350px; max-width: 400px;" align="center">
               <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
                 <div style="display: flex; align-items: center; gap: 12px; min-width: 0; flex: 1;">
-                  <img src="https://i.scdn.co/image/ab67616d0000b273a556a47a466bab5952eb8f06" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
+                  <img src="https://i.scdn.co/image/ab67616d0000b27398b1c6c0d05f8841f08a9eca" width="240" height="240" style="border-radius: 6px; object-fit: cover; flex-shrink: 0;" alt="Album Art" />
                   <div style="text-align: left; color: white; font-size: 12px; line-height: 1.4;">
-                    🎶 <span style="font-weight: bold;">listening to:</span> 織風結 (手遊《陰陽師》繪世花鳥卷 角色日文主題曲) by: 網易陰陽師手遊 🎶 <br/>
-                    2:40 ━━━━━━━━━━●───── 3:50 <br/>
-                    Volume: ■■■■■■■□ <br/>
-                    <span>↻      ◁ ▹ ▷     ↺ </span>
+                    🎶 <span style="font-weight: bold;">listening to:</span> Asleep Among Endives by: Ichiko Aoba 🎶 <br/>
+                    3:26 ━━━━━━━━━━━━━━━● 3:20 <br/>
+                    Volume: ■■□□□□□□ <br/>
+                    <span>↻      ◁ ⏸ ▷     ↺ </span>
                   </div>
                 </div>
                 <div style="display: flex; align-items: center; gap: 12px;">
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 18, 2026, 12:35 AM</sub>
+  <sub>🤖 Auto-updated via GitHub Actions • Last sync: Jul 18, 2026, 01:37 AM</sub>
 </div>
 
 </div>
