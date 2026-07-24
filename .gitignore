@@ -33,5 +33,4 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 # Finder (MacOS) folder config
 .DS_Store
 
-# Spotify tracking file
-.last-song.json
+# Spotify tracking file is committed so the same-song skip logic persists between Action runs
