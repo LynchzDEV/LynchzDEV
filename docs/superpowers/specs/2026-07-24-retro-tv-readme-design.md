@@ -43,6 +43,26 @@ beside it. Most old sections dropped (owner approved "most of em can drop out").
 - Album art fetch failure → baked-in fallback art (TUYU placeholder).
 - Text escaped for SVG/XML (quotes, ampersands in track names).
 
+## Phase 2 — full room scene (approved 2026-07-24, "all of em")
+
+- A. Day/night room: Bangkok hour → night (dark room, lamp glow, moon in window) or day
+  (sunlight). Scene regenerates on phase change.
+- B. Audio EQ bars: animated equalizer bars near/under screen.
+- C. VHS shelf: last 4 recently-played tracks as VHS tapes below TV, text spines only
+  (no per-tape album art — SVG size).
+- D. Commit ticker: scrolling ticker across screen bottom with latest public GitHub
+  commit messages/repos (GITHUB_TOKEN, escaped).
+- E. Genre-reactive mood: Spotify artist genre → scene accents (metal = red glow,
+  J-pop/anime = pastel neon, default = warm amber). Graceful default when genre empty.
+- F. Cassette stats wall: top GitHub languages as labeled cassettes on a wall shelf.
+- Anime girl: chibi vector girl sitting on floor watching TV, headphones, blink
+  animation; lamp glow hits her at night.
+- Pipeline: workflow keeps token exchange, passes SPOTIFY_ACCESS_TOKEN + GITHUB_TOKEN
+  as env; update-readme.js fetches currently-playing, recently-played (4), artist
+  genres, commit events, language stats itself.
+- Skip logic: hash of ALL scene inputs (song, day/night phase, recent list, ticker
+  commits, languages) stored in .last-song.json; any change → regenerate.
+
 ## Testing
 
 - Local: open generated SVG + README preview in browser, verify animations/layout.
