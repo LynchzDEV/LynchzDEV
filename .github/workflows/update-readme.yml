@@ -159,14 +159,14 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
 
-          # Check if there are changes
-          if git diff --quiet README.md; then
-            echo "🔄 No changes to README (content unchanged)"
+          # Check if there are changes across the generated artifacts
+          git add README.md spotify-tv.svg .last-song.json
+          if git diff --cached --quiet; then
+            echo "🔄 No changes to commit (content unchanged)"
             exit 0
           fi
 
           echo "✅ Changes detected, committing..."
-          git add README.md
           git commit -m "🎵 Update Spotify: ${{ steps.spotify.outputs.track_name }} by ${{ steps.spotify.outputs.artist_name }}"
           git push
 
