@@ -8,6 +8,10 @@ on:
     branches: [main]
     paths: [".github/workflows/update-readme.yml"] # Only when workflow changes
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -98,6 +102,7 @@ jobs:
 
           echo "✅ Changes detected, committing..."
           git commit -m "🎵 Update scene: $(node -e "try{console.log(require('./.last-song.json').track+' by '+require('./.last-song.json').artist)}catch(e){console.log('now playing')}")"
+          git pull --rebase -X theirs origin main
           git push
 
           echo "🎉 README updated and pushed successfully!"
