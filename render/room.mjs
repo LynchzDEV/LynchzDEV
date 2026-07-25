@@ -828,14 +828,14 @@ function addPoster(scene, palette, params) {
   const group = new THREE.Group();
 
   const frame = new THREE.Mesh(
-    new THREE.BoxGeometry(1.0, 1.32, 0.05),
+    new THREE.BoxGeometry(0.88, 1.16, 0.05),
     matte(WOOD_DARK, 0.7)
   );
   frame.castShadow = true;
   group.add(frame);
 
   const mount = new THREE.Mesh(
-    new THREE.PlaneGeometry(0.9, 1.22),
+    new THREE.PlaneGeometry(0.78, 1.06),
     matte(params.phase === "night" ? "#161a24" : "#e8dcc4", 0.9)
   );
   mount.position.z = 0.03;
@@ -844,24 +844,24 @@ function addPoster(scene, palette, params) {
   const texture = new THREE.TextureLoader().load(params.poster.image);
   texture.colorSpace = THREE.SRGBColorSpace;
   const art = new THREE.Mesh(
-    new THREE.PlaneGeometry(0.78, 0.78),
+    new THREE.PlaneGeometry(0.68, 0.68),
     new THREE.MeshStandardMaterial({ map: texture, roughness: 0.9 })
   );
-  art.position.set(0, 0.16, 0.035);
+  art.position.set(0, 0.14, 0.035);
   group.add(art);
 
   const caption = new THREE.Mesh(
-    new THREE.PlaneGeometry(0.78, 0.2),
+    new THREE.PlaneGeometry(0.7, 0.18),
     new THREE.MeshBasicMaterial({
       map: posterCaption(params.poster.name, params.phase),
       transparent: true,
     })
   );
-  caption.position.set(0, -0.36, 0.035);
+  caption.position.set(0, -0.33, 0.035);
   group.add(caption);
 
-  group.position.set(-1.16, 1.42, -1.5);
-  group.rotation.y = 0.02;
+  group.position.set(-2.74, 3.36, -1.5);
+  group.rotation.y = 0.015;
   scene.add(group);
 }
 
@@ -873,10 +873,10 @@ function posterCaption(name, phase) {
   ctx.fillStyle = phase === "night" ? "#c8c2d8" : "#3a3028";
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
-  ctx.font = "bold 46px 'Courier New', monospace";
-  ctx.fillText(String(name).slice(0, 16).toUpperCase(), 256, 44);
-  ctx.font = "26px 'Courier New', monospace";
-  ctx.fillText("ON HEAVY ROTATION", 256, 98);
+  ctx.font = "bold 62px 'Courier New', monospace";
+  ctx.fillText(String(name).slice(0, 14).toUpperCase(), 256, 46);
+  ctx.font = "32px 'Courier New', monospace";
+  ctx.fillText("MOST PLAYED", 256, 104);
   const texture = new THREE.CanvasTexture(canvas);
   texture.colorSpace = THREE.SRGBColorSpace;
   return texture;
