@@ -323,7 +323,7 @@ function composeSvg(scene, plateBytes, girlFrames) {
   const isNight = scene.phase === "night";
   const plateUri = `data:image/png;base64,${plateBytes.toString("base64")}`;
   const ariaLabel = escapeXml(
-    `3D retro room in ${scene.phase} light, Bangkok ${scene.weather?.condition || ""} ${Math.round(scene.weather?.tempC ?? 0)}C, CRT television on channel ${scene.channel.id} showing ${scene.channel.id === "CH-05" ? `${scene.track} by ${scene.artist}` : scene.channel.label}`
+    `3D retro room in ${scene.phase} light, Bangkok ${scene.weather?.condition || ""} ${Math.round(scene.weather?.tempC ?? 0)}C, CRT television on channel ${scene.channel.id} showing ${scene.channel.id === "CH-05" ? `${scene.track} by ${scene.artist}` : scene.channel.label}${scene.topArtist?.name ? `, framed poster of ${scene.topArtist.name}` : ""}`
   );
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${PLATE.width} ${PLATE.height}" width="${PLATE.width}" height="${PLATE.height}" font-family="'Courier New',monospace" role="img" aria-label="${ariaLabel}">
@@ -352,6 +352,9 @@ function buildReadme(scene, epochSeconds) {
     minute: "2-digit",
   });
   const weatherLine = `${Math.round(scene.weather?.tempC ?? 0)}°C ${scene.weather?.condition || "CLEAR"}`;
+  const posterLine = scene.topArtist?.name
+    ? ` · on the wall: ${scene.topArtist.name}`
+    : "";
   return `<div align="center">
 
 # Lynchz
@@ -360,7 +363,7 @@ function buildReadme(scene, epochSeconds) {
 
 <img src="./${SVG_FILE}?v=${epochSeconds}" width="820" alt="Rendered 3D room where a CRT television shows what I am listening to right now" />
 
-<sub>Bangkok ${weatherLine} · ${scene.channel.id} ${scene.channel.label} · rebuilt in 3D every 10 min by GitHub Actions</sub>
+<sub>Bangkok ${weatherLine} · ${scene.channel.id} ${scene.channel.label}${posterLine} · rebuilt in 3D every 10 min by GitHub Actions</sub>
 
 [GitHub · @LynchzDEV](https://github.com/LynchzDEV)
 

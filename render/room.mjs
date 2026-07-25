@@ -844,42 +844,15 @@ function addPoster(scene, palette, params) {
   const texture = new THREE.TextureLoader().load(params.poster.image);
   texture.colorSpace = THREE.SRGBColorSpace;
   const art = new THREE.Mesh(
-    new THREE.PlaneGeometry(0.68, 0.68),
+    new THREE.PlaneGeometry(0.7, 0.82),
     new THREE.MeshStandardMaterial({ map: texture, roughness: 0.9 })
   );
-  art.position.set(0, 0.14, 0.035);
+  art.position.set(0, 0.02, 0.035);
   group.add(art);
-
-  const caption = new THREE.Mesh(
-    new THREE.PlaneGeometry(0.7, 0.18),
-    new THREE.MeshBasicMaterial({
-      map: posterCaption(params.poster.name, params.phase),
-      transparent: true,
-    })
-  );
-  caption.position.set(0, -0.33, 0.035);
-  group.add(caption);
 
   group.position.set(-2.74, 3.36, -1.5);
   group.rotation.y = 0.015;
   scene.add(group);
-}
-
-function posterCaption(name, phase) {
-  const canvas = document.createElement("canvas");
-  canvas.width = 512;
-  canvas.height = 132;
-  const ctx = canvas.getContext("2d");
-  ctx.fillStyle = phase === "night" ? "#c8c2d8" : "#3a3028";
-  ctx.textAlign = "center";
-  ctx.textBaseline = "middle";
-  ctx.font = "bold 62px 'Courier New', monospace";
-  ctx.fillText(String(name).slice(0, 14).toUpperCase(), 256, 46);
-  ctx.font = "32px 'Courier New', monospace";
-  ctx.fillText("MOST PLAYED", 256, 104);
-  const texture = new THREE.CanvasTexture(canvas);
-  texture.colorSpace = THREE.SRGBColorSpace;
-  return texture;
 }
 
 function addGirlBillboard(scene, params) {
