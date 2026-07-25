@@ -144,7 +144,7 @@ function channelCommitGraph(scene) {
   const max = Math.max(1, ...days.map((day) => day.count));
   const columns = 10;
   const rows = 7;
-  const cell = Math.min(SCREEN.width * 0.072, SCREEN.height * 0.082);
+  const cell = Math.min(SCREEN.width * 0.068, SCREEN.height * 0.075);
   const gap = cell * 0.22;
   const gridWidth = columns * (cell + gap);
   const startX = SCREEN.centerX - gridWidth / 2;
@@ -162,7 +162,7 @@ function channelCommitGraph(scene) {
   const total = scene.contributions.totalYear || 0;
   const streak = scene.contributions.streakDays || 0;
   return `${cells}
-    <text x="${SCREEN.centerX.toFixed(1)}" y="${screenY(0.9).toFixed(1)}" font-size="${Math.max(8, SCREEN.width * 0.05).toFixed(1)}" fill="#bafcd4" text-anchor="middle">${total} COMMITS &#183; ${streak}d STREAK</text>`;
+    <text x="${SCREEN.centerX.toFixed(1)}" y="${screenY(0.83).toFixed(1)}" font-size="${Math.max(8, SCREEN.width * 0.05).toFixed(1)}" fill="#bafcd4" text-anchor="middle">${total} COMMITS &#183; ${streak}d STREAK</text>`;
 }
 
 function channelLangStats(scene) {
@@ -270,13 +270,13 @@ export function renderRainLayer(weather) {
     const length = 14 + (index % 4) * 8;
     const delay = ((index % 9) * 0.13).toFixed(2);
     const duration = (0.7 + (index % 5) * 0.12).toFixed(2);
-    return `<line x1="${x.toFixed(1)}" y1="${WINDOW.y.toFixed(1)}" x2="${(x - 5).toFixed(1)}" y2="${(WINDOW.y + length).toFixed(1)}" stroke="#c8e4ff" stroke-opacity="0.5" stroke-width="1.4" stroke-linecap="round" class="raindrop" style="animation-delay:-${delay}s;animation-duration:${duration}s"/>`;
+    return `<line x1="${x.toFixed(1)}" y1="${WINDOW.y.toFixed(1)}" x2="${(x - 5).toFixed(1)}" y2="${(WINDOW.y + length).toFixed(1)}" stroke="#dbeeff" stroke-opacity="0.75" stroke-width="1.8" stroke-linecap="round" class="raindrop" style="animation-delay:-${delay}s;animation-duration:${duration}s"/>`;
   }).join("");
   const droplets = Array.from({ length: 9 }, (_, index) => {
     const x = WINDOW.x + 12 + ((index * 53) % (WINDOW.width - 24));
     const y = WINDOW.y + 18 + ((index * 41) % (WINDOW.height - 36));
     const r = 1.8 + (index % 3) * 0.9;
-    return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}" fill="#dbeaff" fill-opacity="0.34"/>`;
+    return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}" fill="#eaf4ff" fill-opacity="0.5"/>`;
   }).join("");
   const storm = weather.isStorm
     ? `<rect x="${WINDOW.x.toFixed(1)}" y="${WINDOW.y.toFixed(1)}" width="${WINDOW.width.toFixed(1)}" height="${WINDOW.height.toFixed(1)}" fill="#dce9ff" class="lightning"/>`
