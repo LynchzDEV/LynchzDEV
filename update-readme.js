@@ -441,6 +441,13 @@ async function main() {
     return;
   }
 
+  if (!process.env.SPOTIFY_ACCESS_TOKEN && process.argv[2] !== "--allow-tokenless") {
+    console.log(
+      "⛔ No SPOTIFY_ACCESS_TOKEN, refusing to publish a degraded scene. Use --preview to iterate or --allow-tokenless to force."
+    );
+    process.exit(0);
+  }
+
   const scene = await buildScene();
 
   console.log("🎬 Scene:");
