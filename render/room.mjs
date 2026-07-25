@@ -43,6 +43,7 @@ export function buildRoom(params) {
   addNeon(scene, palette, params);
   addDesk(scene, palette, params);
   addClock(scene, palette, params);
+  addPoster(scene, palette, params);
   addGirlBillboard(scene, params);
   addLights(scene, palette, params);
 
@@ -820,6 +821,65 @@ function addClock(scene, palette, params) {
 
   group.position.set(-1.12, 2.56, -1.52);
   scene.add(group);
+}
+
+function addPoster(scene, palette, params) {
+  if (!params.poster?.image) return;
+  const group = new THREE.Group();
+
+  const frame = new THREE.Mesh(
+    new THREE.BoxGeometry(1.0, 1.32, 0.05),
+    matte(WOOD_DARK, 0.7)
+  );
+  frame.castShadow = true;
+  group.add(frame);
+
+  const mount = new THREE.Mesh(
+    new THREE.PlaneGeometry(0.9, 1.22),
+    matte(params.phase === "night" ? "#161a24" : "#e8dcc4", 0.9)
+  );
+  mount.position.z = 0.03;
+  group.add(mount);
+
+  const texture = new THREE.TextureLoader().load(params.poster.image);
+  texture.colorSpace = THREE.SRGBColorSpace;
+  const art = new THREE.Mesh(
+    new THREE.PlaneGeometry(0.78, 0.78),
+    new THREE.MeshStandardMaterial({ map: texture, roughness: 0.9 })
+  );
+  art.position.set(0, 0.16, 0.035);
+  group.add(art);
+
+  const caption = new THREE.Mesh(
+    new THREE.PlaneGeometry(0.78, 0.2),
+    new THREE.MeshBasicMaterial({
+      map: posterCaption(params.poster.name, params.phase),
+      transparent: true,
+    })
+  );
+  caption.position.set(0, -0.36, 0.035);
+  group.add(caption);
+
+  group.position.set(-1.16, 1.42, -1.5);
+  group.rotation.y = 0.02;
+  scene.add(group);
+}
+
+function posterCaption(name, phase) {
+  const canvas = document.createElement("canvas");
+  canvas.width = 512;
+  canvas.height = 132;
+  const ctx = canvas.getContext("2d");
+  ctx.fillStyle = phase === "night" ? "#c8c2d8" : "#3a3028";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+  ctx.font = "bold 46px 'Courier New', monospace";
+  ctx.fillText(String(name).slice(0, 16).toUpperCase(), 256, 44);
+  ctx.font = "26px 'Courier New', monospace";
+  ctx.fillText("ON HEAVY ROTATION", 256, 98);
+  const texture = new THREE.CanvasTexture(canvas);
+  texture.colorSpace = THREE.SRGBColorSpace;
+  return texture;
 }
 
 function addGirlBillboard(scene, params) {

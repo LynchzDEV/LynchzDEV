@@ -144,6 +144,29 @@ async function fetchSpotifyScene(token) {
   return result;
 }
 
+async function fetchTopArtist(token) {
+  if (!token) return null;
+  try {
+    const response = await fetch(
+      "https://api.spotify.com/v1/me/top/artists?limit=1&time_range=short_term",
+      { headers: { Authorization: `Bearer ${token}` } }
+    );
+    if (response.status === 403) {
+      console.log("ℹ️ top-artists needs the user-top-read scope; poster stays empty.");
+      return null;
+    }
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const artist = (await response.json()).items?.[0];
+    if (!artist) return null;
+    const imageUrl = artist.images?.[artist.images.length - 1]?.url;
+    const image = imageUrl ? await fetchAlbumArtDataUri(imageUrl) : null;
+    return { name: artist.name, image };
+  } catch (error) {
+    console.log("⚠️ top artist fetch failed:", error.message);
+    return null;
+  }
+}
+
 async function fetchLanguageStats(githubToken) {
   try {
     const headers = {
@@ -211,6 +234,7 @@ function sceneHash(scene) {
           scene.weather?.isRain,
         ],
         clock: scene.clock.hours,
+        topArtist: scene.topArtist?.name || null,
         coffeeCups: scene.coffeeCups,
         tiredMode: scene.tiredMode,
         streakTier: scene.streakTier,
@@ -239,7 +263,7 @@ async function buildScene() {
   const githubToken = process.env.GITHUB_TOKEN || "";
   const previous = readState();
 
-  const [spotify, weather, devLife, contributions, commits, languages] =
+  const [spotify, weather, devLife, contributions, commits, languages, topArtist] =
     await Promise.all([
       fetchSpotifyScene(spotifyToken),
       fetchWeather(),
@@ -247,6 +271,7 @@ async function buildScene() {
       fetchContributions(githubToken),
       fetchRecentCommits(githubToken),
       fetchLanguageStats(githubToken),
+      fetchTopArtist(spotifyToken),
     ]);
 
   const albumDataUri = await fetchAlbumArtDataUri(spotify.image);
@@ -268,6 +293,7 @@ async function buildScene() {
     commits,
     languages,
     channel,
+    topArtist,
     phase: weather.phase,
     clock: bangkokClock(),
     ...summary,
@@ -288,6 +314,7 @@ function plateParams(scene) {
     coffeeCups: scene.coffeeCups,
     tiredMode: scene.tiredMode,
     clock: scene.clock,
+    poster: scene.topArtist,
     girlTexture: null,
   };
 }
