@@ -69,13 +69,35 @@ jobs:
             echo "SPOTIFY_ACCESS_TOKEN=$ACCESS_TOKEN" >> "$GITHUB_ENV"
           fi
 
+      - name: 🟢 Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: 📦 Install render dependencies
+        run: npm ci
+
+      - name: 🔍 Locate Chrome for 3D rendering
+        run: |
+          for candidate in /usr/bin/google-chrome /usr/bin/google-chrome-stable /usr/bin/chromium-browser /usr/bin/chromium; do
+            if [ -x "$candidate" ]; then
+              echo "✅ Chrome found at $candidate"
+              echo "CHROME_PATH=$candidate" >> "$GITHUB_ENV"
+              exit 0
+            fi
+          done
+          echo "❌ No Chrome binary available on this runner"
+          exit 1
+
       - name: 📝 Update README
         id: update_readme
         env:
           SPOTIFY_ACCESS_TOKEN: ${{ env.SPOTIFY_ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CHROME_PATH: ${{ env.CHROME_PATH }}
         run: |
-          echo "📝 Regenerating README + scene SVG..."
+          echo "📝 Rendering 3D plate and regenerating README + scene SVG..."
 
           if [ ! -f "update-readme.js" ]; then
             echo "❌ update-readme.js not found!"
