@@ -1,0 +1,29 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  html, body { margin: 0; background: #000; }
+  canvas { display: block; }
+</style>
+<canvas id="plate" width="1000" height="600"></canvas>
+<script type="importmap">
+  {
+    "imports": {
+      "three": "/node_modules/three/build/three.module.js",
+      "three/addons/": "/node_modules/three/examples/jsm/"
+    }
+  }
+</script>
+<script type="module">
+  import { buildRoom, createRenderer, createComposer, attachEnvironment } from "/render/room.mjs";
+
+  const params = await fetch("/params.json").then((r) => r.json());
+  const canvas = document.getElementById("plate");
+  const { scene, camera, palette } = buildRoom(params);
+  const renderer = createRenderer(canvas, palette);
+  attachEnvironment(renderer, scene);
+  const composer = createComposer(renderer, scene, camera);
+
+  await new Promise((resolve) => setTimeout(resolve, 250));
+  composer.render();
+  document.title = "PLATE_READY";
+</script>
