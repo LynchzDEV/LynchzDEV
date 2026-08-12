@@ -4,12 +4,12 @@
 
 **CS student · J-rock &amp; metal listener · TypeScript developer**
 
-<img src="./spotify-tv.svg?v=1786504375" width="820" alt="Rendered 3D room where a CRT television shows what I am listening to right now" />
+<img src="./spotify-tv.svg?v=1786511150" width="820" alt="Rendered 3D room where a CRT television shows what I am listening to right now" />
 
-<sub>Bangkok 30°C RAIN · CH-11 WEATHER RADAR · on the wall: Ichiko Aoba · rebuilt in 3D every 10 min by GitHub Actions</sub>
+<sub>Bangkok 31°C PARTLY CLOUDY · CH-05 NOW PLAYING · on the wall: Ichiko Aoba · rebuilt in 3D every 10 min by GitHub Actions</sub>
 
 [GitHub · @LynchzDEV](https://github.com/LynchzDEV)
 
-<sub>Last sync: Aug 12, 2026, 10:12 AM</sub>
+<sub>Last sync: Aug 12, 2026, 12:05 PM</sub>
 
 </div>
