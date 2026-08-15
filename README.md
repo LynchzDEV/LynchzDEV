@@ -4,12 +4,12 @@
 
 **CS student · J-rock &amp; metal listener · TypeScript developer**
 
-<img src="./spotify-tv.svg?v=1786801165" width="820" alt="Rendered 3D room where a CRT television shows what I am listening to right now" />
+<img src="./spotify-tv.svg?v=1786802243" width="820" alt="Rendered 3D room where a CRT television shows what I am listening to right now" />
 
-<sub>Bangkok 29°C PARTLY CLOUDY · CH-05 NOW PLAYING · on the wall: Laufey · rebuilt in 3D every 10 min by GitHub Actions</sub>
+<sub>Bangkok 28°C PARTLY CLOUDY · CH-02 COMMIT GRAPH · on the wall: Laufey · rebuilt in 3D every 10 min by GitHub Actions</sub>
 
 [GitHub · @LynchzDEV](https://github.com/LynchzDEV)
 
-<sub>Last sync: Aug 15, 2026, 08:39 PM</sub>
+<sub>Last sync: Aug 15, 2026, 08:57 PM</sub>
 
 </div>
