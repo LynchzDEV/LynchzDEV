@@ -4,12 +4,12 @@
 
 **CS student · J-rock &amp; metal listener · TypeScript developer**
 
-<img src="./spotify-tv.svg?v=1787458168" width="820" alt="Rendered 3D room where a CRT television shows what I am listening to right now" />
+<img src="./spotify-tv.svg?v=1787460633" width="820" alt="Rendered 3D room where a CRT television shows what I am listening to right now" />
 
-<sub>Bangkok 30°C PARTLY CLOUDY · CH-05 NOW PLAYING · on the wall: Ichiko Aoba · rebuilt in 3D every 10 min by GitHub Actions</sub>
+<sub>Bangkok 30°C PARTLY CLOUDY · CH-07 LANG STATS · on the wall: Ichiko Aoba · rebuilt in 3D every 10 min by GitHub Actions</sub>
 
 [GitHub · @LynchzDEV](https://github.com/LynchzDEV)
 
-<sub>Last sync: Aug 23, 2026, 11:09 AM</sub>
+<sub>Last sync: Aug 23, 2026, 11:50 AM</sub>
 
 </div>
